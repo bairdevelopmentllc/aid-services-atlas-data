@@ -1,0 +1,78 @@
+{
+  "providers": [
+	  {
+  "id": "us-va-germanna-adult-ed-workforce-1",
+  "name": "Germanna Community College Adult Education & Workforce Programs",
+  "orgType": "college",
+  "address": "2130 Germanna Hwy, Locust Grove, VA 22508",
+  "description": "Adult education, workforce training, and career readiness programs serving the Germanna Community College region.",
+  "eligibility": "Adults seeking education, workforce skills, credentials, or career advancement within the Germanna service region",
+  "hours": "Varies by program",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-891-3000"
+    }
+  ],
+  "services": [
+    "education",
+    "employment"
+  ],
+  "website": "https://germanna.edu/adult-education-workforce"
+},
+{
+  "id": "us-va-fauquier-mealsonwheels-1",
+  "name": "Fauquier County Meals on Wheels",
+  "orgType": "county",
+  "address": "10 Hotel St, Warrenton, VA 20186",
+  "description": "County program providing nutritious home-delivered meals to eligible residents of Fauquier County.",
+  "eligibility": "Homebound residents of Fauquier County, including seniors and adults with disabilities.",
+  "hours": "Mon-Fri 8am-4:30pm",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-422-8400"
+    }
+  ],
+  "services": [
+    "food"
+  ],
+  "website": "https://www.fauquiercounty.gov/MealsOnWheels"
+},
+{
+  "id": "us-va-fauquier-dss-childcare-1",
+  "name": "Fauquier County Department of Social Services - Child Care Subsidy",
+  "orgType": "county",
+  "address": "320 Hospital Dr, Warrenton, VA 20186",
+  "description": "Provides child care assistance to eligible families through the Virginia Child Care Subsidy Program.",
+  "eligibility": "Residents of Fauquier County who meet program requirements.",
+  "hours": "Mon-Fri 8am-4:30pm",
+  "phones": [{ "label": "Main", "number": "540-422-8400" }],
+  "services": ["childcare", "financial"],
+  "website": "https://www.fauquiercounty.gov/government/departments/social-services"
+},
+{
+  "id": "us-va-fredericksburg-central-virginia-housing-coalition-1",
+  "name": "Central Virginia Housing Coalition",
+  "orgType": "nonprofit",
+  "address": "2300 Charles St, Fredericksburg, VA 22401",
+  "description": "Nonprofit organization providing affordable housing support, housing counseling, and rental assistance programs for low- to moderate-income households.",
+  "eligibility": "Low- to moderate-income residents of Fredericksburg City and the counties of Spotsylvania, Stafford, Caroline, and King George",
+  "hours": "Mon–Thu 8:00am–4:00pm, Fri 8:00am–12:00pm",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-604-9943"
+    }
+  ],
+  "services": [
+    "housing",
+    "financial"
+  ],
+  "website": "https://www.centralvahousing.org/",
+  "notes": "Does not directly provide utility bill payment assistance; clients seeking utility help are typically referred to DSS or community action agencies."
+}
+
+
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "providers": [
+	  {
+  "id": "us-va-germanna-adult-ed-workforce-1",
+  "name": "Germanna Community College Adult Education & Workforce Programs",
+  "orgType": "college",
+  "address": "2130 Germanna Hwy, Locust Grove, VA 22508",
+  "description": "Adult education, workforce training, and career readiness programs serving the Germanna Community College region.",
+  "eligibility": "Adults seeking education, workforce skills, credentials, or career advancement within the Germanna service region",
+  "hours": "Varies by program",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-891-3000"
+    }
+  ],
+  "services": [
+    "education",
+    "employment"
+  ],
+  "website": "https://germanna.edu/adult-education-workforce"
+},
+{
+  "id": "us-va-orange-mealsonwheels-1",
+  "name": "Orange County Meals on Wheels",
+  "orgType": "county",
+  "address": "146 Madison Rd, Orange, VA 22960",
+  "description": "Provides home-delivered meals to eligible residents of Orange County who are unable to shop or cook independently.",
+  "eligibility": "Homebound residents of Orange County, including seniors and adults with disabilities.",
+  "hours": "Mon-Fri 8am-4:30pm",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-672-1155"
+    }
+  ],
+  "services": [
+    "food"
+  ],
+  "website": "https://www.orangecountyva.gov/MealsOnWheels"
+},
+{
+  "id": "us-va-orange-dss-childcare-1",
+  "name": "Orange County Department of Social Services - Child Care Subsidy",
+  "orgType": "county",
+  "address": "146 Madison Rd, Orange, VA 22960",
+  "description": "Local child care subsidy administration supporting employment and education.",
+  "eligibility": "Residents of Orange County who meet Virginia program requirements.",
+  "hours": "Mon-Fri 8am-4:30pm",
+  "phones": [{ "label": "Main", "number": "540-672-1155" }],
+  "services": ["childcare", "financial"],
+  "website": "https://www.orangecountyva.gov/156/Social-Services"
+},
+{
+  "id": "us-va-germanna-dental-hygiene-clinic-1",
+  "name": "Germanna Community College Dental Hygiene Clinic",
+  "orgType": "education",
+  "address": "132 Germanna Point Dr, Fredericksburg, VA 22408",
+  "description": "Low-cost preventive dental care provided by dental hygiene students under the supervision of licensed dental professionals.",
+  "eligibility": "Open to the public; suitable for individuals seeking affordable preventive dental services",
+  "hours": "Varies by academic semester; appointments required",
+  "phones": [
+    {
+      "label": "Clinic",
+      "number": "540-891-3000"
+    }
+  ],
+  "services": [
+    "dental",
+    "medical",
+    "education"
+  ],
+  "website": "https://www.germanna.edu"
+}
+
+
+  ]
+}

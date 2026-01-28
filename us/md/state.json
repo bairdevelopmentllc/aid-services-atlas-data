@@ -1,0 +1,26 @@
+{
+  "providers": [
+    {
+  "id": "us-midatlantic-washington-gas-iqeep",
+  "name": "Washington Gas – Income Qualifying Energy Efficiency Program",
+  "orgType": "utility",
+  "address": "Service territory across DC, Northern Virginia, and Maryland",
+  "description": "Provides no-cost energy efficiency upgrades for income-qualified Washington Gas customers, including weatherization measures and high-efficiency natural gas equipment to reduce energy use and monthly bills.",
+  "eligibility": "Income-qualified Washington Gas residential customers; eligibility typically based on household income at or below program thresholds or participation in qualifying assistance programs",
+  "hours": "Varies by program administrator",
+  "phones": [
+    {
+      "label": "Customer Service",
+      "number": "844-927-4427"
+    }
+  ],
+  "services": [
+    "utilities",
+    "gas",
+    "financial"
+  ],
+  "website": "https://www.washingtongas.com/savings/for-your-home/energy-efficiency-programs/income-qualified-programs"
+}
+  ]
+	
+}

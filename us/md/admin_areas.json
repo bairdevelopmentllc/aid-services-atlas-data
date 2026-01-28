@@ -1,0 +1,28 @@
+{
+  "areas": [
+    { "id": "us-md-allegany-county", "name": "Allegany County", "state": "md", "type": "county" },
+    { "id": "us-md-anne-arundel-county", "name": "Anne Arundel County", "state": "md", "type": "county" },
+    { "id": "us-md-baltimore-city", "name": "Baltimore City", "state": "md", "type": "city" },
+    { "id": "us-md-baltimore-county", "name": "Baltimore County", "state": "md", "type": "county" },
+    { "id": "us-md-calvert-county", "name": "Calvert County", "state": "md", "type": "county" },
+    { "id": "us-md-caroline-county", "name": "Caroline County", "state": "md", "type": "county" },
+    { "id": "us-md-carroll-county", "name": "Carroll County", "state": "md", "type": "county" },
+    { "id": "us-md-cecil-county", "name": "Cecil County", "state": "md", "type": "county" },
+    { "id": "us-md-charles-county", "name": "Charles County", "state": "md", "type": "county" },
+    { "id": "us-md-dorchester-county", "name": "Dorchester County", "state": "md", "type": "county" },
+    { "id": "us-md-frederick-county", "name": "Frederick County", "state": "md", "type": "county" },
+    { "id": "us-md-garrett-county", "name": "Garrett County", "state": "md", "type": "county" },
+    { "id": "us-md-harford-county", "name": "Harford County", "state": "md", "type": "county" },
+    { "id": "us-md-howard-county", "name": "Howard County", "state": "md", "type": "county" },
+    { "id": "us-md-kent-county", "name": "Kent County", "state": "md", "type": "county" },
+    { "id": "us-md-montgomery-county", "name": "Montgomery County", "state": "md", "type": "county" },
+    { "id": "us-md-prince-georges-county", "name": "Prince George’s County", "state": "md", "type": "county" },
+    { "id": "us-md-queen-annes-county", "name": "Queen Anne’s County", "state": "md", "type": "county" },
+    { "id": "us-md-somerset-county", "name": "Somerset County", "state": "md", "type": "county" },
+    { "id": "us-md-st-marys-county", "name": "St. Mary’s County", "state": "md", "type": "county" },
+    { "id": "us-md-talbot-county", "name": "Talbot County", "state": "md", "type": "county" },
+    { "id": "us-md-washington-county", "name": "Washington County", "state": "md", "type": "county" },
+    { "id": "us-md-wicomico-county", "name": "Wicomico County", "state": "md", "type": "county" },
+    { "id": "us-md-worcester-county", "name": "Worcester County", "state": "md", "type": "county" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "providers": [
+	  {
+  "id": "us-va-rappahannock-mealsonwheels-1",
+  "name": "Rappahannock County Meals on Wheels",
+  "orgType": "county",
+  "address": "157 Gay St, Washington, VA 22747",
+  "description": "Delivers meals to eligible homebound residents of Rappahannock County.",
+  "eligibility": "Homebound residents of Rappahannock County, primarily seniors and adults with disabilities.",
+  "hours": "Mon-Fri 8am-4pm",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-675-3313"
+    }
+  ],
+  "services": [
+    "food"
+  ],
+  "website": "https://www.rappahannockcountyva.gov/MealsOnWheels"
+},
+{
+  "id": "us-va-nami-rappahannock-area-1",
+  "name": "National Alliance on Mental Illness (NAMI) Rappahannock Area",
+  "orgType": "charity",
+  "address": "PO Box 72, Fredericksburg, VA 22404",
+  "description": "Local affiliate of the National Alliance on Mental Illness providing education, support groups, and advocacy for individuals and families affected by mental illness.",
+  "eligibility": "Individuals with mental illness, family members, and community members in the Rappahannock Area",
+  "hours": "Varies by program; support groups and classes offered on scheduled dates",
+  "phones": [
+    {
+      "label": "Helpline",
+      "number": "540-371-2704"
+    }
+  ],
+  "services": [
+    "mental_health",
+    "education"
+  ],
+  "website": "https://namirappahannock.org/"
+}
+
+
+  ]
+}

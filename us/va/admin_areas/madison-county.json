@@ -1,0 +1,58 @@
+{
+  "providers": [
+	  {
+  "id": "us-va-germanna-adult-ed-workforce-1",
+  "name": "Germanna Community College Adult Education & Workforce Programs",
+  "orgType": "college",
+  "address": "2130 Germanna Hwy, Locust Grove, VA 22508",
+  "description": "Adult education, workforce training, and career readiness programs serving the Germanna Community College region.",
+  "eligibility": "Adults seeking education, workforce skills, credentials, or career advancement within the Germanna service region",
+  "hours": "Varies by program",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-891-3000"
+    }
+  ],
+  "services": [
+    "education",
+    "employment"
+  ],
+  "website": "https://germanna.edu/adult-education-workforce"
+},
+{
+  "id": "us-va-madison-mealsonwheels-1",
+  "name": "Madison County Meals on Wheels",
+  "orgType": "county",
+  "address": "1450 N Main St, Madison, VA 22727",
+  "description": "Delivers meals to eligible homebound residents of Madison County.",
+  "eligibility": "Homebound residents of Madison County, primarily seniors and adults with disabilities.",
+  "hours": "Mon-Fri 8am-4pm",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-948-7531"
+    }
+  ],
+  "services": [
+    "food"
+  ],
+  "website": "https://www.madisonco.virginia.gov/MealsOnWheels"
+},
+{
+  "id": "us-va-madison-dss-childcare-1",
+  "name": "Madison County Department of Social Services - Child Care Subsidy",
+  "orgType": "county",
+  "address": "145 Schoolhouse Rd, Madison, VA 22727",
+  "description": "Local administration of the Virginia Child Care Subsidy Program for eligible families.",
+  "eligibility": "Residents of Madison County who meet Virginia Child Care Subsidy income and activity requirements.",
+  "hours": "Mon-Fri 8am-4:30pm",
+  "phones": [{ "label": "Main", "number": "540-948-5521" }],
+  "services": ["childcare", "financial"],
+  "website": "https://www.madisoncountyva.gov/201/Social-Services"
+}
+
+
+
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "providers" : [
+    {
+      "address" : "P.O. Box 90249, Austin, TX 78709",
+      "description" : "24\/7 confidential support for individuals experiencing domestic violence, including crisis counseling, safety planning, and referrals to local services.",
+      "eligibility" : "Anyone experiencing domestic violence, survivors, friends, family members, and service providers",
+      "hours" : "24\/7",
+      "id" : "us-national-domestic-violence-hotline-1",
+      "name" : "National Domestic Violence Hotline",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Hotline",
+          "number" : "800-799-7233"
+        },
+        {
+          "label" : "TTY",
+          "number" : "800-787-3224"
+        }
+      ],
+      "services" : [
+        "housing",
+        "legal",
+        "mental_health",
+        "shelter"
+      ],
+      "website" : "https:\/\/www.thehotline.org"
+    },
+    {
+      "address" : "Nationwide service (no physical address)",
+      "description" : "Provides free, confidential, 24\/7 support for people in suicidal crisis or emotional distress via phone, text, and chat, and connects callers to local crisis centers.",
+      "eligibility" : "Anyone in the United States experiencing emotional distress, suicidal thoughts, or seeking crisis support for themselves or others",
+      "hours" : "24\/7",
+      "id" : "us-national-988-suicide-crisis-lifeline",
+      "name" : "988 Suicide & Crisis Lifeline",
+      "notes" : "Dial or text 988 from anywhere in the U.S. Chat is available via the website. Veterans can press 1 or text 838255 to reach the Veterans Crisis Line.",
+      "orgType" : "federal",
+      "phones" : [
+        {
+          "label" : "Call or Text",
+          "number" : "988"
+        }
+      ],
+      "services" : [
+        "mental_health"
+      ],
+      "website" : "https:\/\/988lifeline.org\/"
+    },
+    {
+      "address" : "N\/A (online service)",
+      "description" : "An official U.S. government tool that helps individuals find federal and state benefit programs they may be eligible for by answering a short questionnaire.",
+      "eligibility" : "Anyone seeking information about government benefits",
+      "hours" : "24\/7 (online)",
+      "id" : "us-federal-usagov-benefit-finder",
+      "name" : "USA.gov Benefit Finder",
+      "notes" : "This tool does not provide benefits directly; it screens for eligibility and links users to the appropriate federal or state agencies to apply.",
+      "orgType" : "federal",
+      "phones" : [
+        {
+          "label" : "USA.gov Contact Center",
+          "number" : "1-844-USA-GOV1"
+        }
+      ],
+      "services" : [
+        "financial",
+        "food",
+        "housing",
+        "medical",
+        "mental_health",
+        "childcare",
+        "utilities",
+        "employment",
+        "education"
+      ],
+      "website" : "https:\/\/www.usa.gov\/benefit-finder"
+    },
+    {
+      "description" : "Federal Emergency Management Agency assistance",
+      "eligibility" : "Disaster victims",
+      "hours" : "24\/7",
+      "id" : "fema-1",
+      "name" : "FEMA National Helpline",
+      "orgType" : "federal",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "1-800-621-3362"
+        }
+      ],
+      "services" : [
+        "housing",
+        "financial"
+      ],
+      "website" : "https:\/\/www.fema.gov"
+    }
+  ]
+}

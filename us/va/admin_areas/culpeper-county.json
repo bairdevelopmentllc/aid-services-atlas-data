@@ -1,0 +1,78 @@
+{
+  "providers": [
+	  {
+  "id": "us-va-germanna-adult-ed-workforce-1",
+  "name": "Germanna Community College Adult Education & Workforce Programs",
+  "orgType": "college",
+  "address": "2130 Germanna Hwy, Locust Grove, VA 22508",
+  "description": "Adult education, workforce training, and career readiness programs serving the Germanna Community College region.",
+  "eligibility": "Adults seeking education, workforce skills, credentials, or career advancement within the Germanna service region",
+  "hours": "Varies by program",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-891-3000"
+    }
+  ],
+  "services": [
+    "education",
+    "employment"
+  ],
+  "website": "https://germanna.edu/adult-education-workforce"
+},
+{
+  "id": "us-va-culpeper-mealsonwheels-1",
+  "name": "Culpeper County Meals on Wheels",
+  "orgType": "county",
+  "address": "163 Culpeper Ave, Culpeper, VA 22701",
+  "description": "Provides home-delivered meals to eligible homebound residents of Culpeper County.",
+  "eligibility": "Homebound residents of Culpeper County, primarily seniors and adults with disabilities.",
+  "hours": "Mon-Fri 8am-4:30pm",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "540-727-3435"
+    }
+  ],
+  "services": [
+    "food"
+  ],
+  "website": "https://www.culpepercounty.gov/MealsOnWheels"
+},
+{
+  "id": "us-va-culpeper-dss-childcare-1",
+  "name": "Culpeper County Department of Social Services - Child Care Subsidy",
+  "orgType": "county",
+  "address": "1835 Industry Ln, Culpeper, VA 22701",
+  "description": "Administers child care financial assistance through the Virginia Child Care Subsidy Program.",
+  "eligibility": "Culpeper County residents meeting state eligibility guidelines.",
+  "hours": "Mon-Fri 8am-4:30pm",
+  "phones": [{ "label": "Main", "number": "540-727-0372" }],
+  "services": ["childcare", "financial"],
+  "website": "https://www.culpepercounty.gov/114/Department-of-Social-Services"
+},
+{
+  "id": "us-va-germanna-dental-hygiene-clinic-1",
+  "name": "Germanna Community College Dental Hygiene Clinic",
+  "orgType": "education",
+  "address": "132 Germanna Point Dr, Fredericksburg, VA 22408",
+  "description": "Low-cost preventive dental care provided by dental hygiene students under the supervision of licensed dental professionals.",
+  "eligibility": "Open to the public; suitable for individuals seeking affordable preventive dental services",
+  "hours": "Varies by academic semester; appointments required",
+  "phones": [
+    {
+      "label": "Clinic",
+      "number": "540-891-3000"
+    }
+  ],
+  "services": [
+    "dental",
+    "medical",
+    "education"
+  ],
+  "website": "https://www.germanna.edu"
+}
+
+
+  ]
+}

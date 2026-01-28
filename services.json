@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "services": [
+    { "id": "housing", "name": "Housing" },
+    { "id": "food", "name": "Food" },
+    { "id": "water", "name": "Water" },
+    { "id": "gas", "name": "Gas/Fuel" },
+    { "id": "medical", "name": "Medical" },
+    { "id": "shelter", "name": "Shelter" },
+    { "id": "transportation", "name": "Transportation" },
+    { "id": "financial", "name": "Financial Assistance" },
+    { "id": "legal", "name": "Legal Aid" },
+    { "id": "employment", "name": "Employment" },
+    { "id": "education", "name": "Education" },
+    { "id": "mental_health", "name": "Mental Health" },
+    { "id": "childcare", "name": "Childcare" },
+    { "id": "utilities", "name": "Utilities" },
+    { "id": "dental", "name": "Dental" }
+  ]
+}

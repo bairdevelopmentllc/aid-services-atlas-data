@@ -1,0 +1,10 @@
+{
+  "areas": [
+    {
+      "id": "us-dc-district-of-columbia",
+      "name": "District of Columbia",
+      "state": "dc",
+      "type": "district"
+    }
+  ]
+}

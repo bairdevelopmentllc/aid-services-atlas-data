@@ -1,0 +1,354 @@
+{
+  "providers": [
+    {
+  "id": "us-va-state-jobs-1",
+  "name": "Virginia State Jobs",
+  "orgType": "state",
+  "address": "101 N 14th St, Richmond, VA 23219",
+  "description": "Official employment portal for jobs with the Commonwealth of Virginia, including state agencies and executive branch positions.",
+  "eligibility": "Open to qualified applicants; requirements vary by position",
+  "hours": "Online portal available 24/7",
+  "phones": [
+    {
+      "label": "General HR",
+      "number": "804-225-2131"
+    }
+  ],
+  "services": [
+    "employment"
+  ],
+  "website": "https://www.jobs.virginia.gov/"
+},
+{
+  "id": "us-va-vec-1",
+  "name": "Virginia Employment Commission",
+  "orgType": "state",
+  "address": "703 E Main St, Richmond, VA 23219",
+  "description": "State agency administering unemployment insurance, employment services, and workforce development programs for Virginia residents.",
+  "eligibility": "Virginia residents seeking employment services or unemployment benefits",
+  "hours": "Mon-Fri 8am-4:30pm",
+  "phones": [
+    {
+      "label": "Customer Contact Center",
+      "number": "866-832-2363"
+    }
+  ],
+  "services": [
+    "employment",
+    "financial",
+    "education"
+  ],
+  "website": "https://www.vec.virginia.gov"
+},
+{
+  "id": "us-va-fastforward-1",
+  "name": "FastForward Virginia",
+  "orgType": "state",
+  "address": "101 N 14th St, Richmond, VA 23219",
+  "description": "Statewide workforce credential program offering short-term training aligned to high-demand jobs, with financial assistance for eligible Virginians.",
+  "eligibility": "Virginia residents; eligibility and funding vary by program and income",
+  "hours": "Varies by participating community college",
+  "phones": [],
+  "services": [
+    "employment",
+    "education",
+    "financial"
+  ],
+  "website": "https://fastforwardva.org"
+},
+{
+  "id": "us-va-mixed-delivery-preschool-1",
+  "name": "Mixed Delivery Preschool Program",
+  "orgType": "state",
+  "address": "101 N 14th St, Richmond, VA 23219",
+  "description": "Statewide preschool initiative providing free, high-quality early childhood education for eligible 3- and 4-year-olds through public and private provider partnerships.",
+  "eligibility": "Virginia resident families with income at or below 200% of the federal poverty level or children with identified risk factors, eligibility determined locally.",
+  "hours": "Varies by local provider",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "804-225-2020"
+    }
+  ],
+  "services": [
+    "education",
+    "childcare"
+  ],
+  "website": "https://www.doe.virginia.gov/early-childhood/mixed-delivery"
+},
+{
+  "id": "us-va-vpi-1",
+  "name": "Virginia Preschool Initiative (VPI)",
+  "orgType": "state",
+  "address": "101 N 14th St, Richmond, VA 23219",
+  "description": "A state-funded early childhood education program providing free, high-quality preschool to eligible four-year-old children through local school divisions and approved community providers.",
+  "eligibility": "Children who are four years old by September 30 and meet income or risk-factor guidelines as determined by local school divisions",
+  "hours": "Varies by local school division and provider",
+  "phones": [
+    {
+      "label": "Virginia Department of Education",
+      "number": "804-225-2020"
+    }
+  ],
+  "services": [
+    "education",
+    "childcare"
+  ],
+  "website": "https://www.doe.virginia.gov/early-childhood/preschool-initiatives/virginia-preschool-initiative"
+},
+{
+  "id": "us-va-medicaid-1",
+  "name": "Virginia Medicaid",
+  "orgType": "state",
+  "address": "600 E Broad St, Richmond, VA 23219",
+  "description": "Public health insurance program providing medical coverage to eligible low-income individuals and families in Virginia.",
+  "eligibility": "Virginia residents who meet income, household size, age, disability, or pregnancy requirements.",
+  "hours": "Mon-Fri 8am-7pm",
+  "phones": [
+    {
+      "label": "Member Services",
+      "number": "1-855-242-8282"
+    }
+  ],
+  "services": [
+    "medical",
+    "mental_health",
+    "dental"
+  ],
+  "website": "https://www.coverva.org/"
+},
+{
+  "id": "us-va-vvan-1",
+  "name": "Virginia Victim Assistance Network",
+  "orgType": "nonprofit",
+  "address": "789 E. Main St, Suite 100, Richmond, VA 23219",
+  "description": "Statewide nonprofit providing advocacy, training, and resources to support victims of crime and the professionals who serve them.",
+  "eligibility": "Victims of crime in Virginia and victim service professionals",
+  "hours": "Mon-Fri 9am-5pm",
+  "phones": [
+    {
+      "label": "Main",
+      "number": "804-377-0335"
+    }
+  ],
+  "services": [
+    "legal",
+    "mental_health",
+    "financial",
+    "education"
+  ],
+  "website": "https://www.vvan.org/"
+},
+{
+  "id": "us-va-saara-1",
+  "name": "SAARA of Virginia",
+  "orgType": "charity",
+  "address": "PO Box 1893, Fredericksburg, VA 22402",
+  "description": "Provides crisis intervention, advocacy, shelter, and support services for survivors of domestic violence and sexual assault.",
+  "eligibility": "Individuals affected by domestic violence or sexual assault in the Fredericksburg region",
+  "hours": "24-hour crisis hotline; administrative hours vary",
+  "phones": [
+    {
+      "label": "24-Hour Hotline",
+      "number": "540-371-1666"
+    }
+  ],
+  "services": [
+    "shelter",
+    "housing",
+    "mental_health",
+    "legal"
+  ],
+  "website": "https://www.saara.org/"
+},
+{
+  "id": "va-energy-assistance-program-eap",
+  "name": "Virginia Energy Assistance Program (EAP)",
+  "orgType": "state",
+  "address": "801 E Main St, Richmond, VA 23219",
+  "description": "Provides financial assistance to help eligible low-income households with home energy needs, including heating, cooling, and energy crisis situations.",
+  "eligibility": "Low-income households in Virginia that meet income and program requirements",
+  "hours": "Varies by local Department of Social Services",
+  "phones": [
+    {
+      "label": "State Information",
+      "number": "804-726-7000"
+    }
+  ],
+  "services": [
+    "utilities",
+    "financial"
+  ],
+  "website": "https://www.dss.virginia.gov/benefit/ea/"
+},
+{
+  "id": "us-va-tanf",
+  "name": "Virginia Temporary Assistance for Needy Families (TANF)",
+  "orgType": "state",
+  "address": "801 E Main St, Richmond, VA 23219",
+  "description": "Provides temporary cash assistance and work support services to eligible low-income families with children while promoting employment and self-sufficiency.",
+  "eligibility": "Low-income families with dependent children who meet income, resource, and work participation requirements",
+  "hours": "Varies by local Department of Social Services",
+  "phones": [
+    {
+      "label": "State DSS",
+      "number": "804-726-7000"
+    }
+  ],
+  "services": [
+    "financial",
+    "employment",
+    "childcare"
+  ],
+  "website": "https://www.dss.virginia.gov/benefit/tanf/"
+},
+{
+  "id": "va-american-water-h2o-help",
+  "name": "Virginia American Water – H2O Help to Others Program",
+  "orgType": "company",
+  "address": "1025 S Pickett St, Alexandria, VA 22304",
+  "description": "Provides financial assistance to eligible customers who are having difficulty paying their Virginia American Water utility bills.",
+  "eligibility": "Residential Virginia American Water customers experiencing financial hardship",
+  "hours": "Varies by customer service center",
+  "phones": [
+    {
+      "label": "Customer Service",
+      "number": "866-872-3372"
+    }
+  ],
+  "services": [
+    "utilities",
+    "water",
+    "financial"
+  ],
+  "website": "https://www.amwater.com/vaaw/customer-service-billing/assistance-programs/"
+},
+{
+  "id": "us-va-lihwap-1",
+  "name": "Low Income Household Water Assistance Program (LIHWAP) - Virginia",
+  "orgType": "state",
+  "address": "801 E Main St, Richmond, VA 23219",
+  "description": "Provides financial assistance to help eligible low-income households pay overdue water and wastewater bills or prevent service disconnection.",
+  "eligibility": "Low-income Virginia households responsible for paying water or wastewater bills, including renters with utilities in their name; eligibility is determined by local administering agencies.",
+  "hours": "Varies by local administering agency",
+  "phones": [
+    {
+      "label": "Virginia DSS Main",
+      "number": "804-726-7000"
+    }
+  ],
+  "services": [
+    "water",
+    "utilities",
+    "financial"
+  ],
+  "website": "https://www.dss.virginia.gov/benefit/lihwap.cgi"
+},
+{
+  "id": "us-midatlantic-washington-gas-iqeep",
+  "name": "Washington Gas – Income Qualifying Energy Efficiency Program",
+  "orgType": "utility",
+  "address": "Service territory across DC, Northern Virginia, and Maryland",
+  "description": "Provides no-cost energy efficiency upgrades for income-qualified Washington Gas customers, including weatherization measures and high-efficiency natural gas equipment to reduce energy use and monthly bills.",
+  "eligibility": "Income-qualified Washington Gas residential customers; eligibility typically based on household income at or below program thresholds or participation in qualifying assistance programs",
+  "hours": "Varies by program administrator",
+  "phones": [
+    {
+      "label": "Customer Service",
+      "number": "844-927-4427"
+    }
+  ],
+  "services": [
+    "utilities",
+    "gas",
+    "financial"
+  ],
+  "website": "https://www.washingtongas.com/savings/for-your-home/energy-efficiency-programs/income-qualified-programs"
+},
+{
+  "id": "va-columbia-gas-heatshare",
+  "name": "Columbia Gas HeatShare (Virginia)",
+  "orgType": "company",
+  "address": "",
+  "description": "HeatShare provides emergency natural gas bill assistance to eligible Columbia Gas of Virginia customers facing financial hardship, helping prevent service disconnection or restore service.",
+  "eligibility": "Must be a residential customer of Columbia Gas of Virginia experiencing temporary financial hardship; eligibility is determined through partner social service agencies.",
+  "hours": "Varies by local partner agency",
+  "phones": [
+    {
+      "label": "Customer Service",
+      "number": "1-800-543-8911"
+    }
+  ],
+  "services": [
+    "utilities",
+    "gas",
+    "financial"
+  ],
+  "website": "https://www.columbiagasva.com/heatshare"
+},
+{
+  "id": "us-va-dominion-energy-pipp-energyshare",
+  "name": "Dominion Energy – PIPP / EnergyShare (Virginia)",
+  "orgType": "company",
+  "address": "120 Tredegar St, Richmond, VA 23219",
+  "description": "Utility assistance programs offered by Dominion Energy Virginia to help income-eligible households manage electric bills. The Percentage of Income Payment Plan (PIPP) limits monthly payments based on household income, while EnergyShare provides emergency assistance to prevent disconnection or restore service.",
+  "eligibility": "Income-eligible Dominion Energy Virginia customers; eligibility varies by program and household income level",
+  "hours": "Program hours vary; customers should contact Dominion Energy or local administering agencies",
+  "phones": [
+    {
+      "label": "Customer Service",
+      "number": "866-366-4357"
+    }
+  ],
+  "services": [
+    "utilities",
+    "financial"
+  ],
+  "website": "https://www.dominionenergy.com/virginia/billing/energy-assistance"
+},
+{
+  "id": "us-va-snap",
+  "name": "Virginia Supplemental Nutrition Assistance Program (SNAP)",
+  "orgType": "state",
+  "address": "801 E Main St, Richmond, VA 23219",
+  "description": "Provides monthly food assistance benefits to eligible low-income individuals and families to help purchase groceries.",
+  "eligibility": "Virginia residents who meet income, household size, and other program requirements",
+  "hours": "Mon–Fri, 8:30am–5pm (varies by local office)",
+  "phones": [
+    {
+      "label": "Customer Service",
+      "number": "855-635-4370"
+    }
+  ],
+  "services": [
+    "food"
+  ],
+  "website": "https://www.dss.virginia.gov/benefit/snap.cgi"
+},
+{
+  "id": "us-va-wic",
+  "name": "Virginia Women, Infants, and Children (WIC)",
+  "orgType": "state",
+  "address": "109 Governor St, Richmond, VA 23219",
+  "description": "Provides supplemental nutritious foods, nutrition education, breastfeeding support, and health care referrals for eligible women, infants, and young children.",
+  "eligibility": "Pregnant, postpartum, and breastfeeding women, infants, and children under age five who meet income and nutritional risk guidelines",
+  "hours": "Hours vary by local health department",
+  "phones": [
+    {
+      "label": "State Office",
+      "number": "804-864-7800"
+    }
+  ],
+  "services": [
+    "food",
+    "medical",
+    "education"
+  ],
+  "website": "https://www.vdh.virginia.gov/wic/"
+}
+
+	  
+  
+  ]
+	
+}

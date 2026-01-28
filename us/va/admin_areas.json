@@ -1,0 +1,802 @@
+{
+  "areas": [
+    {
+      "id": "us-va-accomack-county",
+      "name": "Accomack County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-albemarle-county",
+      "name": "Albemarle County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-alleghany-county",
+      "name": "Alleghany County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-amelia-county",
+      "name": "Amelia County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-amherst-county",
+      "name": "Amherst County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-appomattox-county",
+      "name": "Appomattox County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-arlington-county",
+      "name": "Arlington County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-augusta-county",
+      "name": "Augusta County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-bath-county",
+      "name": "Bath County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-bedford-county",
+      "name": "Bedford County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-bland-county",
+      "name": "Bland County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-botetourt-county",
+      "name": "Botetourt County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-brunswick-county",
+      "name": "Brunswick County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-buchanan-county",
+      "name": "Buchanan County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-buckingham-county",
+      "name": "Buckingham County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-campbell-county",
+      "name": "Campbell County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-caroline-county",
+      "name": "Caroline County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-carroll-county",
+      "name": "Carroll County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-charles-city-county",
+      "name": "Charles City County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-charlotte-county",
+      "name": "Charlotte County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-chesterfield-county",
+      "name": "Chesterfield County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-clarke-county",
+      "name": "Clarke County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-craig-county",
+      "name": "Craig County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-culpeper-county",
+      "name": "Culpeper County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-cumberland-county",
+      "name": "Cumberland County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-dickenson-county",
+      "name": "Dickenson County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-dinwiddie-county",
+      "name": "Dinwiddie County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-essex-county",
+      "name": "Essex County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-fairfax-county",
+      "name": "Fairfax County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-fauquier-county",
+      "name": "Fauquier County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-floyd-county",
+      "name": "Floyd County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-fluvanna-county",
+      "name": "Fluvanna County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-franklin-county",
+      "name": "Franklin County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-frederick-county",
+      "name": "Frederick County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-giles-county",
+      "name": "Giles County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-gloucester-county",
+      "name": "Gloucester County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-goochland-county",
+      "name": "Goochland County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-grayson-county",
+      "name": "Grayson County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-greene-county",
+      "name": "Greene County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-greensville-county",
+      "name": "Greensville County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-halifax-county",
+      "name": "Halifax County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-hanover-county",
+      "name": "Hanover County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-henrico-county",
+      "name": "Henrico County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-henry-county",
+      "name": "Henry County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-highland-county",
+      "name": "Highland County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-isle-of-wight-county",
+      "name": "Isle Of Wight County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-james-city-county",
+      "name": "James City County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-king-and-queen-county",
+      "name": "King And Queen County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-king-george-county",
+      "name": "King George County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-king-william-county",
+      "name": "King William County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-lancaster-county",
+      "name": "Lancaster County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-lee-county",
+      "name": "Lee County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-loudoun-county",
+      "name": "Loudoun County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-louisa-county",
+      "name": "Louisa County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-lunenburg-county",
+      "name": "Lunenburg County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-madison-county",
+      "name": "Madison County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-mathews-county",
+      "name": "Mathews County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-mecklenburg-county",
+      "name": "Mecklenburg County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-middlesex-county",
+      "name": "Middlesex County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-montgomery-county",
+      "name": "Montgomery County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-nelson-county",
+      "name": "Nelson County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-new-kent-county",
+      "name": "New Kent County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-northampton-county",
+      "name": "Northampton County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-northumberland-county",
+      "name": "Northumberland County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-nottoway-county",
+      "name": "Nottoway County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-orange-county",
+      "name": "Orange County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-page-county",
+      "name": "Page County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-patrick-county",
+      "name": "Patrick County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-pittsylvania-county",
+      "name": "Pittsylvania County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-powhatan-county",
+      "name": "Powhatan County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-prince-edward-county",
+      "name": "Prince Edward County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-prince-george-county",
+      "name": "Prince George County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-prince-william-county",
+      "name": "Prince William County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-pulaski-county",
+      "name": "Pulaski County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-rappahannock-county",
+      "name": "Rappahannock County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-richmond-county",
+      "name": "Richmond County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-roanoke-county",
+      "name": "Roanoke County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-rockbridge-county",
+      "name": "Rockbridge County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-rockingham-county",
+      "name": "Rockingham County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-russell-county",
+      "name": "Russell County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-scott-county",
+      "name": "Scott County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-shenandoah-county",
+      "name": "Shenandoah County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-smyth-county",
+      "name": "Smyth County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-southampton-county",
+      "name": "Southampton County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-spotsylvania-county",
+      "name": "Spotsylvania County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-stafford-county",
+      "name": "Stafford County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-surry-county",
+      "name": "Surry County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-sussex-county",
+      "name": "Sussex County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-tazewell-county",
+      "name": "Tazewell County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-warren-county",
+      "name": "Warren County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-washington-county",
+      "name": "Washington County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-westmoreland-county",
+      "name": "Westmoreland County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-wise-county",
+      "name": "Wise County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-wythe-county",
+      "name": "Wythe County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-york-county",
+      "name": "York County",
+      "state": "va",
+      "type": "county"
+    },
+    {
+      "id": "us-va-alexandria-city",
+      "name": "City of Alexandria",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-bristol-city",
+      "name": "City of Bristol",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-buena-vista-city",
+      "name": "City of Buena Vista",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-charlottesville-city",
+      "name": "City of Charlottesville",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-chesapeake-city",
+      "name": "City of Chesapeake",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-colonial-heights-city",
+      "name": "City of Colonial Heights",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-covington-city",
+      "name": "City of Covington",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-danville-city",
+      "name": "City of Danville",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-emporia-city",
+      "name": "City of Emporia",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-fairfax-city",
+      "name": "City of Fairfax",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-falls-church-city",
+      "name": "City of Falls Church",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-franklin-city",
+      "name": "City of Franklin",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-fredericksburg-city",
+      "name": "City of Fredericksburg",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-galax-city",
+      "name": "City of Galax",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-hampton-city",
+      "name": "City of Hampton",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-harrisonburg-city",
+      "name": "City of Harrisonburg",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-hopewell-city",
+      "name": "City of Hopewell",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-lexington-city",
+      "name": "City of Lexington",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-lynchburg-city",
+      "name": "City of Lynchburg",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-manassas-city",
+      "name": "City of Manassas",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-manassas-park-city",
+      "name": "City of Manassas Park",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-martinsville-city",
+      "name": "City of Martinsville",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-newport-news-city",
+      "name": "City of Newport News",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-norfolk-city",
+      "name": "City of Norfolk",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-norton-city",
+      "name": "City of Norton",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-petersburg-city",
+      "name": "City of Petersburg",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-poquoson-city",
+      "name": "City of Poquoson",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-portsmouth-city",
+      "name": "City of Portsmouth",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-radford-city",
+      "name": "City of Radford",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-richmond-city",
+      "name": "City of Richmond",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-roanoke-city",
+      "name": "City of Roanoke",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-salem-city",
+      "name": "City of Salem",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-staunton-city",
+      "name": "City of Staunton",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-suffolk-city",
+      "name": "City of Suffolk",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-virginia-beach-city",
+      "name": "City of Virginia Beach",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-waynesboro-city",
+      "name": "City of Waynesboro",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-williamsburg-city",
+      "name": "City of Williamsburg",
+      "state": "va",
+      "type": "city"
+    },
+    {
+      "id": "us-va-winchester-city",
+      "name": "City of Winchester",
+      "state": "va",
+      "type": "city"
+    }
+  ]
+}
