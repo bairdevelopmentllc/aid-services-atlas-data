@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact • Aid & Services Atlas</title>
+  <meta name="description" content="Contact Aid & Services Atlas about data issues, partnerships, or steward participation." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header>
+  <div class="container navbar">
+    <a class="brand" href="index.html" aria-label="Aid & Services Atlas Home">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span>Aid &amp; Services Atlas <small>Offline-first civic directory</small></span>
+    </a>
+
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html">Home</a>
+      <a href="features.html">Features</a>
+      <a href="stewards.html">Stewards</a>
+      <a href="donations.html">Donations</a>
+      <a class="active" href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+
+    <div class="nav-cta">
+      <a class="button primary" href="donations.html">Support ASA</a>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="content">
+  <div class="container">
+    <div class="prose">
+      <h2>Contact</h2>
+      <p>
+        Use this page for general questions, partnership inquiries, or to report issues with a listing.
+        If you are interested in being a steward for your local area, mention your state and county-equivalent area.
+      </p>
+
+      <div class="divider"></div>
+
+      <h3>Fastest option</h3>
+      <p class="help">
+        Email works best for now. You can click on the email address below or fill out the form.
+      </p>
+      <p>
+        <strong>Email:</strong> <a href="mailto:support@bair.dev">support@bair.dev</a>
+      </p>
+
+      <div class="divider"></div>
+
+      <h3>Message form (opens your email client)</h3>
+      <p class="help">
+        This form uses <code>mailto:</code> so it remains static-host friendly. It will open your default email app.
+      </p>
+
+      <form class="form" action="mailto:hello@aidandservicesatlas.org" method="post" enctype="text/plain">
+        <div class="field">
+          <label for="subject">Subject</label>
+          <input id="subject" name="subject" placeholder="Example: Steward interest, listing update, partnership" />
+        </div>
+        <div class="field">
+          <label for="name">Your name (optional)</label>
+          <input id="name" name="name" placeholder="Name" />
+        </div>
+        <div class="field">
+          <label for="location">Location (optional)</label>
+          <input id="location" name="location" placeholder="Example: Virginia, Spotsylvania County" />
+        </div>
+        <div class="field">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" placeholder="Tell us what you need, and include any relevant links or provider details."></textarea>
+        </div>
+        <button class="button primary" type="submit">Compose email</button>
+      </form>
+
+      <div class="divider"></div>
+
+      <h3>Reporting a listing issue</h3>
+      <ul>
+        <li>Include the provider name and where you found it</li>
+        <li>Describe what should change (phone, hours, eligibility, address, website, notes)</li>
+        <li>If the provider is no longer operating, include any evidence or source</li>
+      </ul>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <strong>Aid &amp; Services Atlas</strong><br />
+      <small>Offline-first civic infrastructure for finding help.</small>
+    </div>
+    <div class="footer-links" aria-label="Footer">
+      <a href="index.html">Home</a>
+      <a href="features.html">Features</a>
+      <a href="stewards.html">Stewards</a>
+      <a href="donations.html">Donations</a>
+      <a href="privacy.html">Privacy</a>
+    </div>
+    <small>© <span id="y"></span> Aid &amp; Services Atlas</small>
+  </div>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
+</footer>
+</body>
+</html>

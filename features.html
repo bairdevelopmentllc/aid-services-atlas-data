@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Features • Aid & Services Atlas</title>
+  <meta name="description" content="Explore the core features of Aid & Services Atlas: offline-first, privacy-first, and layered civic data." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header>
+  <div class="container navbar">
+    <a class="brand" href="index.html" aria-label="Aid & Services Atlas Home">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span>Aid &amp; Services Atlas <small>Offline-first civic directory</small></span>
+    </a>
+
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html">Home</a>
+      <a class="active" href="features.html">Features</a>
+      <a href="stewards.html">Stewards</a>
+      <a href="donations.html">Donations</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+
+    <div class="nav-cta">
+      <a class="button primary" href="donations.html">Support ASA</a>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="content">
+  <div class="container">
+    <div class="prose">
+      <h2>Features built for trust and reliability</h2>
+      <p>
+        ASA is designed to work without accounts, without ads, and without collecting personal data.
+        It is “local-first” by default after the initial download.
+      </p>
+
+      <div class="divider"></div>
+
+      <h3>Offline-first by design</h3>
+      <ul>
+        <li>Downloads needed data after location confirmation</li>
+        <li>This data stays on device for offline access</li>
+        <li>Data will update when next online</li>
+      </ul>
+
+      <h3>County-equivalent location model</h3>
+      <ul>
+        <li>Uses coarse GPS and reverse geocoding to determine an admin area</li>
+        <li>Stores an <code>adminAreaId</code> plus an optional fuzzy label (for example “near 22554”)</li>
+        <li>Does not store precise GPS coordinates</li>
+      </ul>
+
+      <h3>Layered data composition</h3>
+      <p>
+        Providers are defined in three layers, then merged at runtime:
+      </p>
+      <ul>
+        <li><strong>Federal</strong> applies everywhere</li>
+        <li><strong>State</strong> applies to a state, optionally limited to selected admin areas</li>
+        <li><strong>Local</strong> applies to a single admin area</li>
+      </ul>
+
+      <h3>Search for discoverability</h3>
+      <p>
+        Search is not case-sensitive and includes text fields such as name, services, description, notes, and eligibility.
+      </p>
+
+      <h3>Neutral results and transparent limitations</h3>
+      <ul>
+        <li>No sponsored rankings, ads, or paid priority placement</li>
+        <li>Clear disclaimers and non-endorsement stance</li>
+        <li>Sorting is based on scope and clarity, not promotion</li>
+      </ul>
+
+      <div class="divider"></div>
+
+      <p class="help">
+        Want to learn how local updates are made safely without giving out repository access?
+      </p>
+      <a class="button" href="stewards.html">Read about stewards</a>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <strong>Aid &amp; Services Atlas</strong><br />
+      <small>Offline-first civic infrastructure for finding help.</small>
+    </div>
+    <div class="footer-links" aria-label="Footer">
+      <a href="index.html">Home</a>
+      <a href="stewards.html">Stewards</a>
+      <a href="donations.html">Donations</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy</a>
+    </div>
+    <small>© <span id="y"></span> Aid &amp; Services Atlas</small>
+  </div>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
+</footer>
+</body>
+</html>

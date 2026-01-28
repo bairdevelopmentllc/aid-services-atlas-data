@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aid & Services Atlas</title>
+  <meta name="description" content="Offline-first, location-aware directory for public and charitable services. Built for trust, privacy, and reliability." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header>
+  <div class="container navbar">
+    <a class="brand" href="index.html" aria-label="Aid & Services Atlas Home">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span>
+        Aid & Services Atlas
+        <small>Offline-first civic directory</small>
+      </span>
+    </a>
+
+    <nav class="nav-links" aria-label="Primary">
+      <a class="active" href="index.html">Home</a>
+      <a href="features.html">Features</a>
+      <a href="stewards.html">Stewards</a>
+      <a href="donations.html">Donations</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+
+    <div class="nav-cta">
+      <span class="badge">No ads • No tracking</span>
+      <a class="button primary" href="donations.html">Support ASA</a>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero">
+    <div class="container hero-grid">
+      <div>
+        <div class="kicker"><span class="dot" aria-hidden="true"></span> Built for the moment people need help</div>
+        <h1>Find aid and services by location, even when you are offline.</h1>
+        <p class="lead">
+          Aid &amp; Services Atlas (ASA) is an offline-first, location-aware directory that helps people
+          discover public and charitable services by need and county-equivalent area. It is designed to be
+          trustworthy, neutral, and privacy-first.
+        </p>
+
+        <div class="hero-actions">
+          <a class="button primary" href="features.html">See features</a>
+          <a class="button" href="stewards.html">Learn about stewards</a>
+          <a class="button" href="privacy.html">Read privacy</a>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="grid-3">
+          <div class="card">
+            <h3>Offline-first</h3>
+            <p>After the initial download, ASA remains usable without internet, which is critical during outages.</p>
+            <div class="meta">
+              <span class="pill ok">Works offline</span>
+              <span class="pill">Local cache</span>
+            </div>
+          </div>
+          <div class="card">
+            <h3>Privacy-first</h3>
+            <p>No accounts, no ads, and no precise GPS storage. Location is handled at county-equivalent resolution.</p>
+            <div class="meta">
+              <span class="pill ok">No tracking</span>
+              <span class="pill">No accounts</span>
+            </div>
+          </div>
+          <div class="card">
+            <h3>Neutral and transparent</h3>
+            <p>ASA does not endorse or guarantee providers. It is a directory, not a marketplace or ranking system.</p>
+            <div class="meta">
+              <span class="pill note">No endorsements</span>
+              <span class="pill">Clear disclaimers</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <aside class="hero-card" aria-label="What ASA is and is not">
+        <h3>What ASA is</h3>
+        <p>A public-interest directory that helps people find essential services by need and location.</p>
+        <ul>
+          <li>Federal, state, and local data layers</li>
+          <li>Human-maintainable and validated data</li>
+          <li>Designed for broad accessibility</li>
+        </ul>
+        <div class="divider"></div>
+        <h3>What ASA is not</h3>
+        <ul>
+          <li>Not emergency response or dispatch</li>
+          <li>Not a verified endorsement of any provider</li>
+          <li>Not a data-harvesting platform</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2>How it works</h2>
+      <p>
+        ASA determines a general admin area (county-equivalent) and downloads the data needed for that area.
+        Providers are combined from federal, state, and local layers at runtime.
+      </p>
+
+      <div class="grid-3">
+        <div class="card">
+          <h3>1) Detect or select location</h3>
+          <p>Uses coarse location and county-equivalent admin areas. If it cannot resolve, ASA falls back to the last known area.</p>
+        </div>
+        <div class="card">
+          <h3>2) Choose what you need</h3>
+          <p>Select needs like food, housing, medical, transportation, and more.</p>
+        </div>
+        <div class="card">
+          <h3>3) Browse offline</h3>
+          <p>Once downloaded, results remain accessible offline, with updates syncing silently when online.</p>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <p class="help">
+        Looking to help keep data fresh in your area? Read about the steward model and how edits stay safe and validated.
+      </p>
+      <a class="button" href="stewards.html">Steward program</a>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <strong>Aid &amp; Services Atlas</strong><br />
+      <small>Offline-first civic infrastructure for finding help.</small>
+    </div>
+    <div class="footer-links" aria-label="Footer">
+      <a href="features.html">Features</a>
+      <a href="stewards.html">Stewards</a>
+      <a href="donations.html">Donations</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy</a>
+    </div>
+    <small>© <span id="y"></span> Aid &amp; Services Atlas</small>
+  </div>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
+</footer>
+</body>
+</html>
