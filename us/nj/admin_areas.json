@@ -1,0 +1,25 @@
+{
+  "areas": [
+    { "id": "us-nj-atlantic-county", "name": "Atlantic County", "state": "nj", "type": "county" },
+    { "id": "us-nj-bergen-county", "name": "Bergen County", "state": "nj", "type": "county" },
+    { "id": "us-nj-burlington-county", "name": "Burlington County", "state": "nj", "type": "county" },
+    { "id": "us-nj-camden-county", "name": "Camden County", "state": "nj", "type": "county" },
+    { "id": "us-nj-cape-may-county", "name": "Cape May County", "state": "nj", "type": "county" },
+    { "id": "us-nj-cumberland-county", "name": "Cumberland County", "state": "nj", "type": "county" },
+    { "id": "us-nj-essex-county", "name": "Essex County", "state": "nj", "type": "county" },
+    { "id": "us-nj-gloucester-county", "name": "Gloucester County", "state": "nj", "type": "county" },
+    { "id": "us-nj-hudson-county", "name": "Hudson County", "state": "nj", "type": "county" },
+    { "id": "us-nj-hunterdon-county", "name": "Hunterdon County", "state": "nj", "type": "county" },
+    { "id": "us-nj-mercer-county", "name": "Mercer County", "state": "nj", "type": "county" },
+    { "id": "us-nj-middlesex-county", "name": "Middlesex County", "state": "nj", "type": "county" },
+    { "id": "us-nj-monmouth-county", "name": "Monmouth County", "state": "nj", "type": "county" },
+    { "id": "us-nj-morris-county", "name": "Morris County", "state": "nj", "type": "county" },
+    { "id": "us-nj-ocean-county", "name": "Ocean County", "state": "nj", "type": "county" },
+    { "id": "us-nj-passaic-county", "name": "Passaic County", "state": "nj", "type": "county" },
+    { "id": "us-nj-salem-county", "name": "Salem County", "state": "nj", "type": "county" },
+    { "id": "us-nj-somerset-county", "name": "Somerset County", "state": "nj", "type": "county" },
+    { "id": "us-nj-sussex-county", "name": "Sussex County", "state": "nj", "type": "county" },
+    { "id": "us-nj-union-county", "name": "Union County", "state": "nj", "type": "county" },
+    { "id": "us-nj-warren-county", "name": "Warren County", "state": "nj", "type": "county" }
+  ]
+}

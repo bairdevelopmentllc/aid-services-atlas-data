@@ -1,0 +1,9 @@
+{
+  "areas": [
+    { "id": "us-hi-hawaii-county", "name": "Hawaii County", "state": "hi", "type": "county" },
+    { "id": "us-hi-honolulu-county", "name": "Honolulu County", "state": "hi", "type": "county" },
+    { "id": "us-hi-kalawao-county", "name": "Kalawao County", "state": "hi", "type": "county" },
+    { "id": "us-hi-kauai-county", "name": "Kauai County", "state": "hi", "type": "county" },
+    { "id": "us-hi-maui-county", "name": "Maui County", "state": "hi", "type": "county" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "areas": [
+    { "id": "us-ct-fairfield-county", "name": "Fairfield County", "state": "ct", "type": "county" },
+    { "id": "us-ct-hartford-county", "name": "Hartford County", "state": "ct", "type": "county" },
+    { "id": "us-ct-litchfield-county", "name": "Litchfield County", "state": "ct", "type": "county" },
+    { "id": "us-ct-middlesex-county", "name": "Middlesex County", "state": "ct", "type": "county" },
+    { "id": "us-ct-new-haven-county", "name": "New Haven County", "state": "ct", "type": "county" },
+    { "id": "us-ct-new-london-county", "name": "New London County", "state": "ct", "type": "county" },
+    { "id": "us-ct-tolland-county", "name": "Tolland County", "state": "ct", "type": "county" },
+    { "id": "us-ct-windham-county", "name": "Windham County", "state": "ct", "type": "county" }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "areas": [
+    { "id": "us-ut-beaver-county", "name": "Beaver County", "state": "ut", "type": "county" },
+    { "id": "us-ut-box-elder-county", "name": "Box Elder County", "state": "ut", "type": "county" },
+    { "id": "us-ut-cache-county", "name": "Cache County", "state": "ut", "type": "county" },
+    { "id": "us-ut-carbon-county", "name": "Carbon County", "state": "ut", "type": "county" },
+    { "id": "us-ut-daggett-county", "name": "Daggett County", "state": "ut", "type": "county" },
+    { "id": "us-ut-davis-county", "name": "Davis County", "state": "ut", "type": "county" },
+    { "id": "us-ut-duchesne-county", "name": "Duchesne County", "state": "ut", "type": "county" },
+    { "id": "us-ut-emery-county", "name": "Emery County", "state": "ut", "type": "county" },
+    { "id": "us-ut-garfield-county", "name": "Garfield County", "state": "ut", "type": "county" },
+    { "id": "us-ut-grand-county", "name": "Grand County", "state": "ut", "type": "county" },
+    { "id": "us-ut-iron-county", "name": "Iron County", "state": "ut", "type": "county" },
+    { "id": "us-ut-juab-county", "name": "Juab County", "state": "ut", "type": "county" },
+    { "id": "us-ut-kane-county", "name": "Kane County", "state": "ut", "type": "county" },
+    { "id": "us-ut-millard-county", "name": "Millard County", "state": "ut", "type": "county" },
+    { "id": "us-ut-morgan-county", "name": "Morgan County", "state": "ut", "type": "county" },
+    { "id": "us-ut-piute-county", "name": "Piute County", "state": "ut", "type": "county" },
+    { "id": "us-ut-rich-county", "name": "Rich County", "state": "ut", "type": "county" },
+    { "id": "us-ut-salt-lake-county", "name": "Salt Lake County", "state": "ut", "type": "county" },
+    { "id": "us-ut-san-juan-county", "name": "San Juan County", "state": "ut", "type": "county" },
+    { "id": "us-ut-sanpete-county", "name": "Sanpete County", "state": "ut", "type": "county" },
+    { "id": "us-ut-sevier-county", "name": "Sevier County", "state": "ut", "type": "county" },
+    { "id": "us-ut-summit-county", "name": "Summit County", "state": "ut", "type": "county" },
+    { "id": "us-ut-tooele-county", "name": "Tooele County", "state": "ut", "type": "county" },
+    { "id": "us-ut-uintah-county", "name": "Uintah County", "state": "ut", "type": "county" },
+    { "id": "us-ut-utah-county", "name": "Utah County", "state": "ut", "type": "county" },
+    { "id": "us-ut-wasatch-county", "name": "Wasatch County", "state": "ut", "type": "county" },
+    { "id": "us-ut-washington-county", "name": "Washington County", "state": "ut", "type": "county" },
+    { "id": "us-ut-wayne-county", "name": "Wayne County", "state": "ut", "type": "county" },
+    { "id": "us-ut-weber-county", "name": "Weber County", "state": "ut", "type": "county" }
+  ]
+}

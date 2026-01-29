@@ -1,0 +1,27 @@
+{
+  "areas": [
+    { "id": "us-wy-albany-county", "name": "Albany County", "state": "wy", "type": "county" },
+    { "id": "us-wy-big-horn-county", "name": "Big Horn County", "state": "wy", "type": "county" },
+    { "id": "us-wy-campbell-county", "name": "Campbell County", "state": "wy", "type": "county" },
+    { "id": "us-wy-carbon-county", "name": "Carbon County", "state": "wy", "type": "county" },
+    { "id": "us-wy-converse-county", "name": "Converse County", "state": "wy", "type": "county" },
+    { "id": "us-wy-crook-county", "name": "Crook County", "state": "wy", "type": "county" },
+    { "id": "us-wy-fremont-county", "name": "Fremont County", "state": "wy", "type": "county" },
+    { "id": "us-wy-goshen-county", "name": "Goshen County", "state": "wy", "type": "county" },
+    { "id": "us-wy-hot-springs-county", "name": "Hot Springs County", "state": "wy", "type": "county" },
+    { "id": "us-wy-johnson-county", "name": "Johnson County", "state": "wy", "type": "county" },
+    { "id": "us-wy-laramie-county", "name": "Laramie County", "state": "wy", "type": "county" },
+    { "id": "us-wy-lincoln-county", "name": "Lincoln County", "state": "wy", "type": "county" },
+    { "id": "us-wy-natrona-county", "name": "Natrona County", "state": "wy", "type": "county" },
+    { "id": "us-wy-niobrara-county", "name": "Niobrara County", "state": "wy", "type": "county" },
+    { "id": "us-wy-park-county", "name": "Park County", "state": "wy", "type": "county" },
+    { "id": "us-wy-platte-county", "name": "Platte County", "state": "wy", "type": "county" },
+    { "id": "us-wy-sheridan-county", "name": "Sheridan County", "state": "wy", "type": "county" },
+    { "id": "us-wy-sublette-county", "name": "Sublette County", "state": "wy", "type": "county" },
+    { "id": "us-wy-sweetwater-county", "name": "Sweetwater County", "state": "wy", "type": "county" },
+    { "id": "us-wy-teton-county", "name": "Teton County", "state": "wy", "type": "county" },
+    { "id": "us-wy-uinta-county", "name": "Uinta County", "state": "wy", "type": "county" },
+    { "id": "us-wy-washakie-county", "name": "Washakie County", "state": "wy", "type": "county" },
+    { "id": "us-wy-weston-county", "name": "Weston County", "state": "wy", "type": "county" }
+  ]
+}

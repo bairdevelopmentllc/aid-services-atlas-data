@@ -1,0 +1,9 @@
+{
+  "areas": [
+    { "id": "us-ri-bristol-county", "name": "Bristol County", "state": "ri", "type": "county" },
+    { "id": "us-ri-kent-county", "name": "Kent County", "state": "ri", "type": "county" },
+    { "id": "us-ri-newport-county", "name": "Newport County", "state": "ri", "type": "county" },
+    { "id": "us-ri-providence-county", "name": "Providence County", "state": "ri", "type": "county" },
+    { "id": "us-ri-washington-county", "name": "Washington County", "state": "ri", "type": "county" }
+  ]
+}

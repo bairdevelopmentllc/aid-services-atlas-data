@@ -1,0 +1,21 @@
+{
+  "areas": [
+    { "id": "us-nv-carson-city", "name": "Carson City", "state": "nv", "type": "city" },
+    { "id": "us-nv-churchill-county", "name": "Churchill County", "state": "nv", "type": "county" },
+    { "id": "us-nv-clark-county", "name": "Clark County", "state": "nv", "type": "county" },
+    { "id": "us-nv-douglas-county", "name": "Douglas County", "state": "nv", "type": "county" },
+    { "id": "us-nv-elko-county", "name": "Elko County", "state": "nv", "type": "county" },
+    { "id": "us-nv-esmeralda-county", "name": "Esmeralda County", "state": "nv", "type": "county" },
+    { "id": "us-nv-eureka-county", "name": "Eureka County", "state": "nv", "type": "county" },
+    { "id": "us-nv-humboldt-county", "name": "Humboldt County", "state": "nv", "type": "county" },
+    { "id": "us-nv-lander-county", "name": "Lander County", "state": "nv", "type": "county" },
+    { "id": "us-nv-lincoln-county", "name": "Lincoln County", "state": "nv", "type": "county" },
+    { "id": "us-nv-lyon-county", "name": "Lyon County", "state": "nv", "type": "county" },
+    { "id": "us-nv-mineral-county", "name": "Mineral County", "state": "nv", "type": "county" },
+    { "id": "us-nv-nye-county", "name": "Nye County", "state": "nv", "type": "county" },
+    { "id": "us-nv-pershing-county", "name": "Pershing County", "state": "nv", "type": "county" },
+    { "id": "us-nv-storey-county", "name": "Storey County", "state": "nv", "type": "county" },
+    { "id": "us-nv-washoe-county", "name": "Washoe County", "state": "nv", "type": "county" },
+    { "id": "us-nv-white-pine-county", "name": "White Pine County", "state": "nv", "type": "county" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "areas": [
+    { "id": "us-vt-addison-county", "name": "Addison County", "state": "vt", "type": "county" },
+    { "id": "us-vt-bennington-county", "name": "Bennington County", "state": "vt", "type": "county" },
+    { "id": "us-vt-caledonia-county", "name": "Caledonia County", "state": "vt", "type": "county" },
+    { "id": "us-vt-chittenden-county", "name": "Chittenden County", "state": "vt", "type": "county" },
+    { "id": "us-vt-essex-county", "name": "Essex County", "state": "vt", "type": "county" },
+    { "id": "us-vt-franklin-county", "name": "Franklin County", "state": "vt", "type": "county" },
+    { "id": "us-vt-grand-isle-county", "name": "Grand Isle County", "state": "vt", "type": "county" },
+    { "id": "us-vt-lamoille-county", "name": "Lamoille County", "state": "vt", "type": "county" },
+    { "id": "us-vt-orange-county", "name": "Orange County", "state": "vt", "type": "county" },
+    { "id": "us-vt-orleans-county", "name": "Orleans County", "state": "vt", "type": "county" },
+    { "id": "us-vt-rutland-county", "name": "Rutland County", "state": "vt", "type": "county" },
+    { "id": "us-vt-washington-county", "name": "Washington County", "state": "vt", "type": "county" },
+    { "id": "us-vt-windham-county", "name": "Windham County", "state": "vt", "type": "county" },
+    { "id": "us-vt-windsor-county", "name": "Windsor County", "state": "vt", "type": "county" }
+  ]
+}

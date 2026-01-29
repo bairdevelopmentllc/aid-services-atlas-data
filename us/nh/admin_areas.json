@@ -1,0 +1,14 @@
+{
+  "areas": [
+    { "id": "us-nh-belknap-county", "name": "Belknap County", "state": "nh", "type": "county" },
+    { "id": "us-nh-carroll-county", "name": "Carroll County", "state": "nh", "type": "county" },
+    { "id": "us-nh-cheshire-county", "name": "Cheshire County", "state": "nh", "type": "county" },
+    { "id": "us-nh-coos-county", "name": "Coos County", "state": "nh", "type": "county" },
+    { "id": "us-nh-grafton-county", "name": "Grafton County", "state": "nh", "type": "county" },
+    { "id": "us-nh-hillsborough-county", "name": "Hillsborough County", "state": "nh", "type": "county" },
+    { "id": "us-nh-merrimack-county", "name": "Merrimack County", "state": "nh", "type": "county" },
+    { "id": "us-nh-rockingham-county", "name": "Rockingham County", "state": "nh", "type": "county" },
+    { "id": "us-nh-strafford-county", "name": "Strafford County", "state": "nh", "type": "county" },
+    { "id": "us-nh-sullivan-county", "name": "Sullivan County", "state": "nh", "type": "county" }
+  ]
+}

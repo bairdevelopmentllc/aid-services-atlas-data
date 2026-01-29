@@ -1,0 +1,20 @@
+{
+  "areas": [
+    { "id": "us-me-androscoggin-county", "name": "Androscoggin County", "state": "me", "type": "county" },
+    { "id": "us-me-aroostook-county", "name": "Aroostook County", "state": "me", "type": "county" },
+    { "id": "us-me-cumberland-county", "name": "Cumberland County", "state": "me", "type": "county" },
+    { "id": "us-me-franklin-county", "name": "Franklin County", "state": "me", "type": "county" },
+    { "id": "us-me-hancock-county", "name": "Hancock County", "state": "me", "type": "county" },
+    { "id": "us-me-kennebec-county", "name": "Kennebec County", "state": "me", "type": "county" },
+    { "id": "us-me-knox-county", "name": "Knox County", "state": "me", "type": "county" },
+    { "id": "us-me-lincoln-county", "name": "Lincoln County", "state": "me", "type": "county" },
+    { "id": "us-me-oxford-county", "name": "Oxford County", "state": "me", "type": "county" },
+    { "id": "us-me-penobscot-county", "name": "Penobscot County", "state": "me", "type": "county" },
+    { "id": "us-me-piscataquis-county", "name": "Piscataquis County", "state": "me", "type": "county" },
+    { "id": "us-me-sagadahoc-county", "name": "Sagadahoc County", "state": "me", "type": "county" },
+    { "id": "us-me-somerset-county", "name": "Somerset County", "state": "me", "type": "county" },
+    { "id": "us-me-waldo-county", "name": "Waldo County", "state": "me", "type": "county" },
+    { "id": "us-me-washington-county", "name": "Washington County", "state": "me", "type": "county" },
+    { "id": "us-me-york-county", "name": "York County", "state": "me", "type": "county" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "areas": [
+    { "id": "us-ma-barnstable-county", "name": "Barnstable County", "state": "ma", "type": "county" },
+    { "id": "us-ma-berkshire-county", "name": "Berkshire County", "state": "ma", "type": "county" },
+    { "id": "us-ma-bristol-county", "name": "Bristol County", "state": "ma", "type": "county" },
+    { "id": "us-ma-dukes-county", "name": "Dukes County", "state": "ma", "type": "county" },
+    { "id": "us-ma-essex-county", "name": "Essex County", "state": "ma", "type": "county" },
+    { "id": "us-ma-franklin-county", "name": "Franklin County", "state": "ma", "type": "county" },
+    { "id": "us-ma-hampden-county", "name": "Hampden County", "state": "ma", "type": "county" },
+    { "id": "us-ma-hampshire-county", "name": "Hampshire County", "state": "ma", "type": "county" },
+    { "id": "us-ma-middlesex-county", "name": "Middlesex County", "state": "ma", "type": "county" },
+    { "id": "us-ma-nantucket-county", "name": "Nantucket County", "state": "ma", "type": "county" },
+    { "id": "us-ma-norfolk-county", "name": "Norfolk County", "state": "ma", "type": "county" },
+    { "id": "us-ma-plymouth-county", "name": "Plymouth County", "state": "ma", "type": "county" },
+    { "id": "us-ma-suffolk-county", "name": "Suffolk County", "state": "ma", "type": "county" },
+    { "id": "us-ma-worcester-county", "name": "Worcester County", "state": "ma", "type": "county" }
+  ]
+}

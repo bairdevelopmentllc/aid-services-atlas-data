@@ -1,0 +1,19 @@
+{
+  "areas": [
+    { "id": "us-az-apache-county", "name": "Apache County", "state": "az", "type": "county" },
+    { "id": "us-az-cochise-county", "name": "Cochise County", "state": "az", "type": "county" },
+    { "id": "us-az-coconino-county", "name": "Coconino County", "state": "az", "type": "county" },
+    { "id": "us-az-gila-county", "name": "Gila County", "state": "az", "type": "county" },
+    { "id": "us-az-graham-county", "name": "Graham County", "state": "az", "type": "county" },
+    { "id": "us-az-greenlee-county", "name": "Greenlee County", "state": "az", "type": "county" },
+    { "id": "us-az-la-paz-county", "name": "La Paz County", "state": "az", "type": "county" },
+    { "id": "us-az-maricopa-county", "name": "Maricopa County", "state": "az", "type": "county" },
+    { "id": "us-az-mohave-county", "name": "Mohave County", "state": "az", "type": "county" },
+    { "id": "us-az-navajo-county", "name": "Navajo County", "state": "az", "type": "county" },
+    { "id": "us-az-pima-county", "name": "Pima County", "state": "az", "type": "county" },
+    { "id": "us-az-pinal-county", "name": "Pinal County", "state": "az", "type": "county" },
+    { "id": "us-az-santa-cruz-county", "name": "Santa Cruz County", "state": "az", "type": "county" },
+    { "id": "us-az-yavapai-county", "name": "Yavapai County", "state": "az", "type": "county" },
+    { "id": "us-az-yuma-county", "name": "Yuma County", "state": "az", "type": "county" }
+  ]
+}

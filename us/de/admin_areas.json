@@ -1,0 +1,7 @@
+{
+  "areas": [
+    { "id": "us-de-kent-county", "name": "Kent County", "state": "de", "type": "county" },
+    { "id": "us-de-new-castle-county", "name": "New Castle County", "state": "de", "type": "county" },
+    { "id": "us-de-sussex-county", "name": "Sussex County", "state": "de", "type": "county" }
+  ]
+}
