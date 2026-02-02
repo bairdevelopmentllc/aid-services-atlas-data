@@ -1,730 +1,738 @@
 {
   "providers" : [
     {
-  "id": "us-va-rappahannock-area-aaa-1",
-  "name": "Rappahannock Area Agency on Aging",
-  "orgType": "regional",
-  "address": "600 Jackson St, Fredericksburg, VA 22401",
-  "description": "Regional agency providing services and supports to help older adults remain independent and connected in their communities.",
-  "eligibility": "Adults age 60 and older and their caregivers residing in the Rappahannock Area Planning District",
-  "hours": "Mon-Fri 8am-4:30pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-3375"
-    }
-  ],
-  "services": [
-    "food",
-    "transportation",
-    "medical",
-    "housing",
-    "financial",
-    "legal"
-  ],
-  "website": "https://www.rappahannockareaaa.org"
-},
-{
-  "id": "us-va-fredericksburg-fcps-adulted-1",
-  "name": "Fredericksburg City Public Schools Adult Education",
-  "orgType": "school_district",
-  "address": "210 Ferdinand Day Dr, Fredericksburg, VA 22401",
-  "description": "Provides adult education services including high school equivalency preparation, English language instruction, and workforce readiness programs for adults in the Fredericksburg region.",
-  "eligibility": "Adults 18 and older seeking adult education, GED preparation, English language learning, or workforce skills training",
-  "hours": "Varies by program; daytime and evening classes available",
-  "phones": [
-    {
-      "label": "Adult Education Office",
-      "number": "540-368-6341"
-    }
-  ],
-  "services": [
-    "education",
-    "employment"
-  ],
-  "website": "https://www.cityschools.com/domain/214"
-},
-{
-  "id": "us-va-germanna-adult-ed-workforce-1",
-  "name": "Germanna Community College Adult Education & Workforce Programs",
-  "orgType": "college",
-  "address": "2130 Germanna Hwy, Locust Grove, VA 22508",
-  "description": "Adult education, workforce training, and career readiness programs serving the Germanna Community College region.",
-  "eligibility": "Adults seeking education, workforce skills, credentials, or career advancement within the Germanna service region",
-  "hours": "Varies by program",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-891-3000"
-    }
-  ],
-  "services": [
-    "education",
-    "employment"
-  ],
-  "website": "https://germanna.edu/adult-education-workforce"
-},
-{
-  "id": "us-va-rappahannock-area-regional-adult-education-1",
-  "name": "Rappahannock Area Regional Adult Education",
-  "orgType": "regional",
-  "address": "1320 Central Park Blvd, Fredericksburg, VA 22401",
-  "description": "Provides adult education services including GED preparation, English language learning, adult basic education, and workforce readiness for the Rappahannock Area region.",
-  "eligibility": "Adults aged 18 and older residing in the Rappahannock Area",
-  "hours": "Varies by program and location",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-368-9888"
-    }
-  ],
-  "services": [
-    "education",
-    "employment"
-  ],
-  "website": "https://www.fcps.org/domain/137"
-},
-{
-  "id": "us-va-vadvs-fredericksburg-1",
-  "name": "Virginia Department of Veterans Services - Fredericksburg Office",
-  "orgType": "state",
-  "address": "1928 Princess Anne St, Fredericksburg, VA 22401",
-  "description": "State veterans service office providing benefits assistance, claims support, and referrals for veterans and their families.",
-  "eligibility": "Veterans, service members, and eligible dependents residing in the Fredericksburg region",
-  "hours": "Mon-Fri 8am-4:30pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-6020"
-    }
-  ],
-  "services": [
-    "financial",
-    "legal",
-    "employment",
-    "education",
-    "medical",
-    "mental_health",
-    "housing"
-  ],
-  "website": "https://www.dvs.virginia.gov/"
-},
-{
-  "id": "us-va-fredericksburg-mealsonwheels-1",
-  "name": "Fredericksburg Area Meals on Wheels",
-  "orgType": "nonprofit",
-  "address": "1201 Caroline St, Fredericksburg, VA 22401",
-  "description": "Provides home-delivered meals to eligible residents of the City of Fredericksburg who are unable to prepare meals for themselves.",
-  "eligibility": "Residents of the City of Fredericksburg who are elderly, disabled, or homebound.",
-  "hours": "Mon-Fri 8:30am-4:30pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-3375"
-    }
-  ],
-  "services": [
-    "food"
-  ],
-  "website": "https://www.fredmow.org"
-},
-{
-  "id": "us-va-pd16-healthy-generations-aaa-1",
-  "name": "Healthy Generations Area Agency on Aging",
-  "orgType": "regional",
-  "address": "460 Lendall Lane, Fredericksburg, VA 22405",
-  "description": "Regional Area Agency on Aging providing services, supports, and advocacy for older adults and caregivers in Planning District 16.",
-  "eligibility": "Primarily adults age 60 and older and their caregivers residing in the service area",
-  "hours": "Mon-Fri 8:30am-4:30pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-3375"
-    }
-  ],
-  "services": [
-    "food",
-    "transportation",
-    "medical",
-    "financial",
-    "legal"
-  ],
-  "website": "https://www.healthygenerations.org/"
-},
-{
-  "id": "us-va-fredericksburg-fred-transit-1",
-  "name": "FRED Transit (Fredericksburg Regional Transit)",
-  "orgType": "regional",
-  "address": "1400 Jefferson Davis Hwy, Fredericksburg, VA 22401",
-  "description": "Public fixed-route and commuter bus transportation serving the Fredericksburg region.",
-  "eligibility": "Open to the general public",
-  "hours": "Varies by route",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-372-1222"
-    }
-  ],
-  "services": [
-    "transportation"
-  ],
-  "website": "https://www.ridefred.com/"
-},
-{
-  "id": "us-va-fredericksburg-virginia-career-works-1",
-  "name": "Virginia Career Works - Fredericksburg Center",
-  "orgType": "regional",
-  "address": "1501 Princess Anne St, Fredericksburg, VA 22401",
-  "description": "Workforce development center providing employment, training, and career support services.",
-  "eligibility": "Job seekers and employers in the Fredericksburg regional service area",
-  "hours": "Mon-Fri 8:30am-4:30pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-548-7757"
-    }
-  ],
-  "services": [
-    "employment",
-    "education",
-    "transportation"
-  ],
-  "website": "https://vcwfredericksburg.com"
-},
-{
-  "id": "us-va-fxbg-legal-aid-works-1",
-  "name": "Legal Aid Works - Fredericksburg Office",
-  "orgType": "nonprofit",
-  "address": "1001 Princess Anne St, Suite 101, Fredericksburg, VA 22401",
-  "description": "Provides free civil legal assistance to low-income residents, including help with housing stability, family law, domestic violence protection, and access to public benefits.",
-  "eligibility": "Low-income residents of the Fredericksburg region",
-  "hours": "Mon-Fri 8:30am-4:30pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-1105"
-    }
-  ],
-  "services": [
-    "legal",
-    "housing",
-    "financial"
-  ],
-  "website": "https://www.legalaidworks.org"
-},
-{
-  "id": "us-va-fredericksburg-city-dss-childcare-1",
-  "name": "Fredericksburg Department of Social Services - Child Care Subsidy",
-  "orgType": "city",
-  "address": "219 N Royal Ave, Fredericksburg, VA 22401",
-  "description": "Administers the Virginia Child Care Subsidy Program for city residents.",
-  "eligibility": "Residents of the City of Fredericksburg who meet program requirements.",
-  "hours": "Mon-Fri 8am-4:30pm",
-  "phones": [{ "label": "Main", "number": "540-372-1076" }],
-  "services": ["childcare", "financial"],
-  "website": "https://www.fredericksburgva.gov/152/Social-Services"
-},
-{
-  "id": "us-va-rappahannock-hfra-1",
-  "name": "Healthy Families Rappahannock Area",
-  "orgType": "nonprofit",
-  "address": "2300 Fall Hill Ave, Fredericksburg, VA 22401",
-  "description": "Voluntary home-visiting program supporting expectant parents and families with young children through parenting education, child development guidance, and family support.",
-  "eligibility": "Expectant parents and families with young children in the Rappahannock Area",
-  "hours": "Mon-Fri 8am-5pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-368-4141"
-    }
-  ],
-  "services": [
-    "childcare",
-    "education",
-    "mental_health"
-  ],
-  "website": "https://healthyfamiliesva.org/"
-},
-{
-  "id": "us-va-fxbg-headstart-1",
-  "name": "Head Start / Early Head Start - Fredericksburg",
-  "orgType": "nonprofit",
-  "address": "600 Jackson St, Fredericksburg, VA 22401",
-  "description": "Early childhood education and family support services for low-income infants, toddlers, and preschool-aged children.",
-  "eligibility": "Income-eligible families with children ages birth to 5 within the service area",
-  "hours": "Mon-Fri 8am-4:30pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-372-1059"
-    }
-  ],
-  "services": [
-    "education",
-    "childcare"
-  ],
-  "website": "https://www.racsb.org/head-start"
-},
-{
-  "id": "us-va-rappahannock-ymca-1",
-  "name": "YMCA of the Virginia Peninsulas - Rappahannock Area",
-  "orgType": "nonprofit",
-  "address": "Multiple locations serving Fredericksburg and surrounding counties, VA",
-  "description": "Community-based programs focused on youth development, healthy living, and social responsibility, including childcare, education enrichment, and wellness programs.",
-  "eligibility": "Open to the public; some programs require membership or income-based qualification for financial assistance",
-  "hours": "Varies by program and location",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-9622"
-    }
-  ],
-  "services": [
-    "childcare",
-    "education",
-    "mental_health",
-    "employment"
-  ],
-  "website": "https://www.peninsulas.org"
-},
-{
-  "id": "us-va-rappahannock-bgca-1",
-  "name": "Boys & Girls Clubs of the Rappahannock Area",
-  "orgType": "nonprofit",
-  "address": "3001 Lafayette Blvd, Fredericksburg, VA 22401",
-  "description": "Provides after-school and out-of-school time programs for youth, focused on academic success, character development, and healthy lifestyles.",
-  "eligibility": "Children and teens, generally ages 6–18, in the Rappahannock Area",
-  "hours": "Varies by club location and school calendar",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-7458"
-    }
-  ],
-  "services": [
-    "education",
-    "childcare"
-  ],
-  "website": "https://www.bgcrappahannock.org"
-},
-{
-  "id": "us-va-greater-fredericksburg-bbbs-1",
-  "name": "Big Brothers Big Sisters Greater Fredericksburg",
-  "orgType": "nonprofit",
-  "address": "10714 Courthouse Rd, Fredericksburg, VA 22407",
-  "description": "Provides one-to-one youth mentoring programs that support positive youth development through professionally supported, long-term relationships.",
-  "eligibility": "Children and youth typically ages 6–18 in the Greater Fredericksburg area; volunteer mentors must meet screening requirements.",
-  "hours": "Mon–Fri 9am–5pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-7444"
-    }
-  ],
-  "services": [
-    "education",
-    "mental_health"
-  ],
-  "website": "https://www.bbbsfred.org"
-},
-{
-  "id": "us-va-fredericksburg-dss-cps-1",
-  "name": "Fredericksburg Department of Social Services - Child Protective Services",
-  "orgType": "city",
-  "address": "330 Industrial Dr, Fredericksburg, VA 22401",
-  "description": "Investigates reports of child abuse and neglect and provides protective services to ensure child safety and family stability.",
-  "eligibility": "Children and families residing in the City of Fredericksburg",
-  "hours": "Mon-Fri 8am-4:30pm (after-hours emergency coverage available)",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-372-1032"
-    }
-  ],
-  "services": [
-    "childcare",
-    "mental_health",
-    "legal"
-  ],
-  "website": "https://www.fredericksburgva.gov/281/Social-Services"
-},
-{
-  "id": "us-va-fredericksburg-safeharbor-cac-1",
-  "name": "Safe Harbor Child Advocacy Center",
-  "orgType": "nonprofit",
-  "address": "15 Business Blvd, Fredericksburg, VA 22406",
-  "description": "Accredited Child Advocacy Center providing coordinated response, forensic interviews, advocacy, and counseling for children who are victims of abuse and their non-offending caregivers.",
-  "eligibility": "Children and non-offending caregivers referred by law enforcement, CPS, or partner agencies within the service region.",
-  "hours": "Mon-Fri 8:30am-4:30pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-891-1329"
-    }
-  ],
-  "services": [
-    "mental_health",
-    "legal",
-    "childcare"
-  ],
-  "website": "https://www.safeharborcac.org"
-},
-{
-  "id": "us-va-rcasa-1",
-  "name": "Rappahannock Council Against Sexual Assault",
-  "orgType": "nonprofit",
-  "address": "P.O. Box 2927, Fredericksburg, VA 22402",
-  "description": "Provides crisis intervention, advocacy, and support services for survivors of sexual violence.",
-  "eligibility": "Survivors of sexual assault and their non-offending family members",
-  "hours": "24-hour crisis hotline; office hours vary",
-  "phones": [
-    {
-      "label": "24-Hour Hotline",
-      "number": "540-371-1666"
-    }
-  ],
-  "services": [
-    "mental_health",
-    "legal",
-    "education"
-  ],
-  "website": "https://www.rcasa.org"
-},
-{
-  "id": "us-va-empowerhouse-1",
-  "name": "Empowerhouse",
-  "orgType": "nonprofit",
-  "address": "P.O. Box 639, Fredericksburg, VA 22404",
-  "description": "Regional nonprofit providing crisis intervention, emergency shelter, advocacy, and support services for survivors of domestic and sexual violence, stalking, and human trafficking.",
-  "eligibility": "Survivors of domestic violence, sexual assault, stalking, or human trafficking in the Greater Fredericksburg region",
-  "hours": "24/7 crisis line; office hours vary",
-  "phones": [
-    {
-      "label": "24-Hour Crisis Line",
-      "number": "540-373-9373"
+      "address" : "600 Jackson St, Fredericksburg, VA 22401",
+      "description" : "Regional agency providing services and supports to help older adults remain independent and connected in their communities.",
+      "eligibility" : "Adults age 60 and older and their caregivers residing in the Rappahannock Area Planning District",
+      "hours" : "Mon-Fri 8am-4:30pm",
+      "id" : "us-va-rappahannock-area-aaa-1",
+      "name" : "Rappahannock Area Agency on Aging",
+      "orgType" : "regional",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-3375"
+        }
+      ],
+      "services" : [
+        "food",
+        "transportation",
+        "medical",
+        "housing",
+        "financial",
+        "legal"
+      ],
+      "website" : "https:\/\/www.rappahannockareaaa.org"
     },
     {
-      "label": "Office",
-      "number": "540-373-2592"
-    }
-  ],
-  "services": [
-    "shelter",
-    "housing",
-    "legal",
-    "mental_health",
-    "childcare",
-    "transportation",
-    "education"
-  ],
-  "website": "https://empowerhouseva.org"
-},
-{
-  "id": "us-va-fredericksburg-gfmo-1",
-  "name": "Greater Fredericksburg Medical Outreach",
-  "orgType": "nonprofit",
-  "address": "150 Riverside Pkwy, Fredericksburg, VA 22406",
-  "description": "Provides free medical care, specialty referrals, medications, and care coordination for uninsured and underinsured adults in the Fredericksburg region.",
-  "eligibility": "Uninsured or underinsured adults with limited income living in the Fredericksburg region",
-  "hours": "By appointment; clinic hours vary by service",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-741-0088"
-    }
-  ],
-  "services": [
-    "medical"
-  ],
-  "website": "https://www.gfmo.org"
-},
-{
-  "id": "us-va-germanna-dental-hygiene-clinic-1",
-  "name": "Germanna Community College Dental Hygiene Clinic",
-  "orgType": "education",
-  "address": "132 Germanna Point Dr, Fredericksburg, VA 22408",
-  "description": "Low-cost preventive dental care provided by dental hygiene students under the supervision of licensed dental professionals.",
-  "eligibility": "Open to the public; suitable for individuals seeking affordable preventive dental services",
-  "hours": "Varies by academic semester; appointments required",
-  "phones": [
-    {
-      "label": "Clinic",
-      "number": "540-891-3000"
-    }
-  ],
-  "services": [
-    "dental",
-    "medical",
-    "education"
-  ],
-  "website": "https://www.germanna.edu"
-},
-{
-  "id": "us-va-mwhc-community-care-clinics-1",
-  "name": "Mary Washington Healthcare Community Care Clinics",
-  "orgType": "nonprofit",
-  "address": "Multiple clinic locations, Fredericksburg, VA",
-  "description": "Community-based primary care clinics providing affordable medical services, often serving uninsured or underinsured patients.",
-  "eligibility": "Open to the community, with emphasis on uninsured and underinsured residents",
-  "hours": "Varies by clinic location",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-741-1000"
-    }
-  ],
-  "services": [
-    "medical",
-    "mental_health",
-	"dental"
-  ],
-  "website": "https://www.marywashingtonhealthcare.com/our-services/community-health/"
-},
-	  {
-  "id": "us-va-rahdfxbg-1",
-  "name": "Rappahannock Area Health District - Fredericksburg Health Department",
-  "orgType": "state",
-  "address": "1320 Central Park Blvd, Fredericksburg, VA 22401",
-  "description": "Local public health department providing clinical services, disease prevention, environmental health, and community health programs.",
-  "eligibility": "Residents of the Rappahannock Area Health District service region",
-  "hours": "Mon-Fri 8am-4:30pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-899-4797"
-    }
-  ],
-  "services": [
-    "medical",
-    "mental_health",
-    "education"
-  ],
-  "website": "https://www.vdh.virginia.gov/rappahannock/"
-},
-{
-  "id": "us-va-fredericksburg-moss-free-clinic-1",
-  "name": "Moss Free Clinic (Lloyd F. Moss Free Clinic)",
-  "orgType": "charity",
-  "address": "471 Central Rd, Fredericksburg, VA 22401",
-  "description": "Provides free primary medical care, specialty referrals, mental health services, and medications to uninsured, low-income adults.",
-  "eligibility": "Uninsured adults with low income; residency in the Fredericksburg region required",
-  "hours": "By appointment; hours vary by service",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-741-1061"
-    }
-  ],
-  "services": [
-    "medical",
-    "mental_health"
-  ],
-  "website": "https://www.mossfreeclinic.org/"
-},
-{
-  "id": "us-va-fredericksburg-aa-intergroup-1",
-  "name": "Alcoholics Anonymous – Fredericksburg Intergroup",
-  "orgType": "charity",
-  "address": "Fredericksburg, VA",
-  "description": "Local Alcoholics Anonymous intergroup supporting recovery from alcoholism through meetings, information, and referrals.",
-  "eligibility": "Individuals seeking help with alcohol addiction",
-  "hours": "Varies by service and meeting schedule",
-  "phones": [
-    {
-      "label": "24-Hour Helpline",
-      "number": "540-373-4144"
-    }
-  ],
-  "services": [
-    "mental_health"
-  ],
-  "website": "https://www.fredericksburgaa.org/"
-},
-	  {
-  "id": "us-va-fredericksburg-na-area-1",
-  "name": "Narcotics Anonymous – Fredericksburg Area",
-  "orgType": "charity",
-  "address": "Fredericksburg, VA (meeting locations vary)",
-  "description": "A nonprofit, peer-led fellowship providing a 12-step recovery program for individuals seeking freedom from drug addiction.",
-  "eligibility": "Anyone with a desire to stop using drugs",
-  "hours": "Meetings held daily at various times and locations",
-  "phones": [
-    {
-      "label": "Helpline",
-      "number": "1-800-777-1515"
-    }
-  ],
-  "services": [
-    "mental_health"
-  ],
-  "website": "https://www.fredericksburgareana.org"
-},
-{
-  "id": "us-va-fredericksburg-catholic-charities-1",
-  "name": "Catholic Charities Diocese of Arlington – Fredericksburg Office",
-  "orgType": "charity",
-  "address": "1101 Jefferson Davis Hwy, Fredericksburg, VA 22401",
-  "description": "Provides charitable assistance and social services including emergency aid, counseling, and immigration-related support to individuals and families in the Fredericksburg region.",
-  "eligibility": "Open to individuals and families in need within the Fredericksburg region; some programs have income or residency requirements.",
-  "hours": "Mon–Fri, 9am–5pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-1124"
-    }
-  ],
-  "services": [
-    "food",
-    "financial",
-    "housing",
-    "legal",
-    "mental_health"
-  ],
-  "website": "https://www.catholiccharitiesda.org/fredericksburg"
-},
-{
-  "id": "us-va-mary-washington-healthcare-1",
-  "name": "Mary Washington Healthcare",
-  "orgType": "nonprofit",
-  "address": "2300 Fall Hill Ave, Fredericksburg, VA 22401",
-  "description": "Nonprofit regional healthcare system providing hospital, outpatient, and specialty medical services to Central Virginia.",
-  "eligibility": "Open to the general public; specific services may have medical or insurance requirements",
-  "hours": "Varies by facility and department; hospitals operate 24/7",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-741-1000"
-    }
-  ],
-  "services": [
-    "medical",
-    "mental_health"
-  ],
-  "website": "https://www.marywashingtonhealthcare.com/"
-},
-{
-  "id": "us-va-nami-rappahannock-area-1",
-  "name": "National Alliance on Mental Illness (NAMI) Rappahannock Area",
-  "orgType": "charity",
-  "address": "PO Box 72, Fredericksburg, VA 22404",
-  "description": "Local affiliate of the National Alliance on Mental Illness providing education, support groups, and advocacy for individuals and families affected by mental illness.",
-  "eligibility": "Individuals with mental illness, family members, and community members in the Rappahannock Area",
-  "hours": "Varies by program; support groups and classes offered on scheduled dates",
-  "phones": [
-    {
-      "label": "Helpline",
-      "number": "540-371-2704"
-    }
-  ],
-  "services": [
-    "mental_health",
-    "education"
-  ],
-  "website": "https://namirappahannock.org/"
-},
-{
-  "id": "us-va-fredericksburg-mha-1",
-  "name": "Mental Health America of Fredericksburg",
-  "orgType": "charity",
-  "address": "2217 Princess Anne St, Fredericksburg, VA 22401",
-  "description": "Community-based nonprofit providing mental health education, peer support, advocacy, and suicide prevention programs in the Fredericksburg region.",
-  "eligibility": "Open to individuals, families, and community members in the Fredericksburg region",
-  "hours": "Mon–Fri, 9am–5pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-371-2704"
-    }
-  ],
-  "services": [
-    "mental_health",
-    "education"
-  ],
-  "website": "https://www.mhafred.org/"
-},
-{
-  "id": "us-va-rappahannock-area-csb-1",
-  "name": "Rappahannock Area Community Services Board",
-  "orgType": "regional",
-  "address": "600 Jackson St, Fredericksburg, VA 22401",
-  "description": "Public provider of behavioral health, developmental disability, and substance use services for the Rappahannock Area.",
-  "eligibility": "Residents of Fredericksburg City, Spotsylvania County, Stafford County, or King George County who meet program criteria",
-  "hours": "Mon–Fri 8:30am–5pm",
-  "phones": [
-    {
-      "label": "Main",
-      "number": "540-373-3223"
+      "address" : "210 Ferdinand Day Dr, Fredericksburg, VA 22401",
+      "description" : "Provides adult education services including high school equivalency preparation, English language instruction, and workforce readiness programs for adults in the Fredericksburg region.",
+      "eligibility" : "Adults 18 and older seeking adult education, GED preparation, English language learning, or workforce skills training",
+      "hours" : "Varies by program; daytime and evening classes available",
+      "id" : "us-va-fredericksburg-fcps-adulted-1",
+      "name" : "Fredericksburg City Public Schools Adult Education",
+      "orgType" : "school_district",
+      "phones" : [
+        {
+          "label" : "Adult Education Office",
+          "number" : "540-368-6341"
+        }
+      ],
+      "services" : [
+        "education",
+        "employment"
+      ],
+      "website" : "https:\/\/www.cityschools.com\/domain\/214"
     },
     {
-      "label": "Emergency Services (24/7)",
-      "number": "540-373-6876"
-    }
-  ],
-  "services": [
-    "mental_health",
-    "medical"
-  ],
-  "website": "https://www.racsb.org/"
-},
-{
-  "id": "us-va-fredericksburg-peace-umc-1",
-  "name": "Peace United Methodist Church",
-  "orgType": "faith-based",
-  "address": "4900 Hickory Dr, Fredericksburg, VA 22407",
-  "description": "Faith-based community church offering worship services and local outreach, including food assistance programs.",
-  "eligibility": "Open to the public; food assistance subject to program availability",
-  "hours": "Varies by service and program",
-  "phones": [
+      "address" : "2130 Germanna Hwy, Locust Grove, VA 22508",
+      "description" : "Adult education, workforce training, and career readiness programs serving the Germanna Community College region.",
+      "eligibility" : "Adults seeking education, workforce skills, credentials, or career advancement within the Germanna service region",
+      "hours" : "Varies by program",
+      "id" : "us-va-germanna-adult-ed-workforce-1",
+      "name" : "Germanna Community College Adult Education & Workforce Programs",
+      "orgType" : "college",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-891-3000"
+        }
+      ],
+      "services" : [
+        "education",
+        "employment"
+      ],
+      "website" : "https:\/\/germanna.edu\/adult-education-workforce"
+    },
     {
-      "label": "Main",
-      "number": "540-898-1616"
-    }
-  ],
-  "services": [
-    "food"
-  ],
-  "website": "https://www.peaceumcva.org/"
-},
-{
-  "id": "us-va-fredericksburg-fairviewbaptist-genesis",
-  "name": "Fairview Baptist Church – Genesis Ministry",
-  "orgType": "faith_based",
-  "address": "900 Charlotte St, Fredericksburg, VA 22401",
-  "description": "Faith-based outreach ministry providing food assistance and basic support to individuals and families in need in the Fredericksburg area.",
-  "eligibility": "Open to individuals and families in need",
-  "hours": "Varies by program; contact church for current schedule",
-  "phones": [
+      "address" : "1320 Central Park Blvd, Fredericksburg, VA 22401",
+      "description" : "Provides adult education services including GED preparation, English language learning, adult basic education, and workforce readiness for the Rappahannock Area region.",
+      "eligibility" : "Adults aged 18 and older residing in the Rappahannock Area",
+      "hours" : "Varies by program and location",
+      "id" : "us-va-rappahannock-area-regional-adult-education-1",
+      "name" : "Rappahannock Area Regional Adult Education",
+      "orgType" : "regional",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-368-9888"
+        }
+      ],
+      "services" : [
+        "education",
+        "employment"
+      ],
+      "website" : "https:\/\/www.fcps.org\/domain\/137"
+    },
     {
-      "label": "Church Office",
-      "number": "540-373-6355"
-    }
-  ],
-  "services": [
-    "food"
-  ],
-  "website": "https://www.fairviewbaptistchurch.org"
-},
-{
-  "id": "us-va-fredericksburg-salvation-army-energyshare",
-  "name": "EnergyShare – Salvation Army (Fredericksburg)",
-  "orgType": "charity",
-  "address": "10002 Southpoint Pkwy, Fredericksburg, VA 22407",
-  "description": "Provides emergency utility assistance through the EnergyShare program to help households avoid electric or heating service disconnection.",
-  "eligibility": "Households in the Fredericksburg region experiencing a utility crisis and meeting income and program guidelines",
-  "hours": "Mon–Fri, business hours (call for appointment and availability)",
-  "phones": [
+      "address" : "1928 Princess Anne St, Fredericksburg, VA 22401",
+      "description" : "State veterans service office providing benefits assistance, claims support, and referrals for veterans and their families.",
+      "eligibility" : "Veterans, service members, and eligible dependents residing in the Fredericksburg region",
+      "hours" : "Mon-Fri 8am-4:30pm",
+      "id" : "us-va-vadvs-fredericksburg-1",
+      "name" : "Virginia Department of Veterans Services - Fredericksburg Office",
+      "orgType" : "state",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-6020"
+        }
+      ],
+      "services" : [
+        "financial",
+        "legal",
+        "employment",
+        "education",
+        "medical",
+        "mental_health",
+        "housing"
+      ],
+      "website" : "https:\/\/www.dvs.virginia.gov\/"
+    },
     {
-      "label": "Main",
-      "number": "540-373-3431"
-    }
-  ],
-  "services": [
-    "utilities",
-    "financial"
-  ],
-  "website": "https://www.salvationarmyusa.org/usn/"
-},
-{
+      "address" : "1201 Caroline St, Fredericksburg, VA 22401",
+      "description" : "Provides home-delivered meals to eligible residents of the City of Fredericksburg who are unable to prepare meals for themselves.",
+      "eligibility" : "Residents of the City of Fredericksburg who are elderly, disabled, or homebound.",
+      "hours" : "Mon-Fri 8:30am-4:30pm",
+      "id" : "us-va-fredericksburg-mealsonwheels-1",
+      "name" : "Fredericksburg Area Meals on Wheels",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-903-2812"
+        }
+      ],
+      "services" : [
+        "food"
+      ],
+      "website" : "https:\/\/www.justserve.org\/mealsonwheelsfredericksburg"
+    },
+    {
+      "address" : "460 Lendall Lane, Fredericksburg, VA 22405",
+      "description" : "Regional Area Agency on Aging providing services, supports, and advocacy for older adults and caregivers in Planning District 16.",
+      "eligibility" : "Primarily adults age 60 and older and their caregivers residing in the service area",
+      "hours" : "Mon-Fri 8:30am-4:30pm",
+      "id" : "us-va-pd16-healthy-generations-aaa-1",
+      "name" : "Healthy Generations Area Agency on Aging",
+      "orgType" : "regional",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-3375"
+        }
+      ],
+      "services" : [
+        "food",
+        "transportation",
+        "medical",
+        "financial",
+        "legal"
+      ],
+      "website" : "https:\/\/www.healthygenerations.org\/"
+    },
+    {
+      "address" : "1400 Jefferson Davis Hwy, Fredericksburg, VA 22401",
+      "description" : "Public fixed-route and commuter bus transportation serving the Fredericksburg region.",
+      "eligibility" : "Open to the general public",
+      "hours" : "Varies by route",
+      "id" : "us-va-fredericksburg-fred-transit-1",
+      "name" : "FRED Transit (Fredericksburg Regional Transit)",
+      "orgType" : "regional",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-372-1222"
+        }
+      ],
+      "services" : [
+        "transportation"
+      ],
+      "website" : "https:\/\/www.ridefred.com\/"
+    },
+    {
+      "address" : "1501 Princess Anne St, Fredericksburg, VA 22401",
+      "description" : "Workforce development center providing employment, training, and career support services.",
+      "eligibility" : "Job seekers and employers in the Fredericksburg regional service area",
+      "hours" : "Mon-Fri 8:30am-4:30pm",
+      "id" : "us-va-fredericksburg-virginia-career-works-1",
+      "name" : "Virginia Career Works - Fredericksburg Center",
+      "orgType" : "regional",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-548-7757"
+        }
+      ],
+      "services" : [
+        "employment",
+        "education",
+        "transportation"
+      ],
+      "website" : "https:\/\/vcwfredericksburg.com"
+    },
+    {
+      "address" : "1001 Princess Anne St, Suite 101, Fredericksburg, VA 22401",
+      "description" : "Provides free civil legal assistance to low-income residents, including help with housing stability, family law, domestic violence protection, and access to public benefits.",
+      "eligibility" : "Low-income residents of the Fredericksburg region",
+      "hours" : "Mon-Fri 8:30am-4:30pm",
+      "id" : "us-va-fxbg-legal-aid-works-1",
+      "name" : "Legal Aid Works - Fredericksburg Office",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-1105"
+        }
+      ],
+      "services" : [
+        "legal",
+        "housing",
+        "financial"
+      ],
+      "website" : "https:\/\/www.legalaidworks.org"
+    },
+    {
+      "address" : "219 N Royal Ave, Fredericksburg, VA 22401",
+      "description" : "Administers the Virginia Child Care Subsidy Program for city residents.",
+      "eligibility" : "Residents of the City of Fredericksburg who meet program requirements.",
+      "hours" : "Mon-Fri 8am-4:30pm",
+      "id" : "us-va-fredericksburg-city-dss-childcare-1",
+      "name" : "Fredericksburg Department of Social Services - Child Care Subsidy",
+      "orgType" : "city",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-372-1076"
+        }
+      ],
+      "services" : [
+        "childcare",
+        "financial"
+      ],
+      "website" : "https:\/\/www.fredericksburgva.gov\/152\/Social-Services"
+    },
+    {
+      "address" : "2300 Fall Hill Ave, Fredericksburg, VA 22401",
+      "description" : "Voluntary home-visiting program supporting expectant parents and families with young children through parenting education, child development guidance, and family support.",
+      "eligibility" : "Expectant parents and families with young children in the Rappahannock Area",
+      "hours" : "Mon-Fri 8am-5pm",
+      "id" : "us-va-rappahannock-hfra-1",
+      "name" : "Healthy Families Rappahannock Area",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-368-4141"
+        }
+      ],
+      "services" : [
+        "childcare",
+        "education",
+        "mental_health"
+      ],
+      "website" : "https:\/\/healthyfamiliesva.org\/"
+    },
+    {
+      "address" : "600 Jackson St, Fredericksburg, VA 22401",
+      "description" : "Early childhood education and family support services for low-income infants, toddlers, and preschool-aged children.",
+      "eligibility" : "Income-eligible families with children ages birth to 5 within the service area",
+      "hours" : "Mon-Fri 8am-4:30pm",
+      "id" : "us-va-fxbg-headstart-1",
+      "name" : "Head Start \/ Early Head Start - Fredericksburg",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-372-1059"
+        }
+      ],
+      "services" : [
+        "education",
+        "childcare"
+      ],
+      "website" : "https:\/\/www.racsb.org\/head-start"
+    },
+    {
+      "address" : "Multiple locations serving Fredericksburg and surrounding counties, VA",
+      "description" : "Community-based programs focused on youth development, healthy living, and social responsibility, including childcare, education enrichment, and wellness programs.",
+      "eligibility" : "Open to the public; some programs require membership or income-based qualification for financial assistance",
+      "hours" : "Varies by program and location",
+      "id" : "us-va-rappahannock-ymca-1",
+      "name" : "YMCA of the Virginia Peninsulas - Rappahannock Area",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-9622"
+        }
+      ],
+      "services" : [
+        "childcare",
+        "education",
+        "mental_health",
+        "employment"
+      ],
+      "website" : "https:\/\/www.peninsulas.org"
+    },
+    {
+      "address" : "3001 Lafayette Blvd, Fredericksburg, VA 22401",
+      "description" : "Provides after-school and out-of-school time programs for youth, focused on academic success, character development, and healthy lifestyles.",
+      "eligibility" : "Children and teens, generally ages 6–18, in the Rappahannock Area",
+      "hours" : "Varies by club location and school calendar",
+      "id" : "us-va-rappahannock-bgca-1",
+      "name" : "Boys & Girls Clubs of the Rappahannock Area",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-7458"
+        }
+      ],
+      "services" : [
+        "education",
+        "childcare"
+      ],
+      "website" : "https:\/\/www.bgcrappahannock.org"
+    },
+    {
+      "address" : "10714 Courthouse Rd, Fredericksburg, VA 22407",
+      "description" : "Provides one-to-one youth mentoring programs that support positive youth development through professionally supported, long-term relationships.",
+      "eligibility" : "Children and youth typically ages 6–18 in the Greater Fredericksburg area; volunteer mentors must meet screening requirements.",
+      "hours" : "Mon–Fri 9am–5pm",
+      "id" : "us-va-greater-fredericksburg-bbbs-1",
+      "name" : "Big Brothers Big Sisters Greater Fredericksburg",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-7444"
+        }
+      ],
+      "services" : [
+        "education",
+        "mental_health"
+      ],
+      "website" : "https:\/\/www.bbbsfred.org"
+    },
+    {
+      "address" : "330 Industrial Dr, Fredericksburg, VA 22401",
+      "description" : "Investigates reports of child abuse and neglect and provides protective services to ensure child safety and family stability.",
+      "eligibility" : "Children and families residing in the City of Fredericksburg",
+      "hours" : "Mon-Fri 8am-4:30pm (after-hours emergency coverage available)",
+      "id" : "us-va-fredericksburg-dss-cps-1",
+      "name" : "Fredericksburg Department of Social Services - Child Protective Services",
+      "orgType" : "city",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-372-1032"
+        }
+      ],
+      "services" : [
+        "childcare",
+        "mental_health",
+        "legal"
+      ],
+      "website" : "https:\/\/www.fredericksburgva.gov\/281\/Social-Services"
+    },
+    {
+      "address" : "15 Business Blvd, Fredericksburg, VA 22406",
+      "description" : "Accredited Child Advocacy Center providing coordinated response, forensic interviews, advocacy, and counseling for children who are victims of abuse and their non-offending caregivers.",
+      "eligibility" : "Children and non-offending caregivers referred by law enforcement, CPS, or partner agencies within the service region.",
+      "hours" : "Mon-Fri 8:30am-4:30pm",
+      "id" : "us-va-fredericksburg-safeharbor-cac-1",
+      "name" : "Safe Harbor Child Advocacy Center",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-891-1329"
+        }
+      ],
+      "services" : [
+        "mental_health",
+        "legal",
+        "childcare"
+      ],
+      "website" : "https:\/\/www.safeharborcac.org"
+    },
+    {
+      "address" : "P.O. Box 2927, Fredericksburg, VA 22402",
+      "description" : "Provides crisis intervention, advocacy, and support services for survivors of sexual violence.",
+      "eligibility" : "Survivors of sexual assault and their non-offending family members",
+      "hours" : "24-hour crisis hotline; office hours vary",
+      "id" : "us-va-rcasa-1",
+      "name" : "Rappahannock Council Against Sexual Assault",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "24-Hour Hotline",
+          "number" : "540-371-1666"
+        }
+      ],
+      "services" : [
+        "mental_health",
+        "legal",
+        "education"
+      ],
+      "website" : "https:\/\/www.rcasa.org"
+    },
+    {
+      "address" : "P.O. Box 639, Fredericksburg, VA 22404",
+      "description" : "Regional nonprofit providing crisis intervention, emergency shelter, advocacy, and support services for survivors of domestic and sexual violence, stalking, and human trafficking.",
+      "eligibility" : "Survivors of domestic violence, sexual assault, stalking, or human trafficking in the Greater Fredericksburg region",
+      "hours" : "24\/7 crisis line; office hours vary",
+      "id" : "us-va-empowerhouse-1",
+      "name" : "Empowerhouse",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "24-Hour Crisis Line",
+          "number" : "540-373-9373"
+        },
+        {
+          "label" : "Office",
+          "number" : "540-373-2592"
+        }
+      ],
+      "services" : [
+        "shelter",
+        "housing",
+        "legal",
+        "mental_health",
+        "childcare",
+        "transportation",
+        "education"
+      ],
+      "website" : "https:\/\/empowerhouseva.org"
+    },
+    {
+      "address" : "150 Riverside Pkwy, Fredericksburg, VA 22406",
+      "description" : "Provides free medical care, specialty referrals, medications, and care coordination for uninsured and underinsured adults in the Fredericksburg region.",
+      "eligibility" : "Uninsured or underinsured adults with limited income living in the Fredericksburg region",
+      "hours" : "By appointment; clinic hours vary by service",
+      "id" : "us-va-fredericksburg-gfmo-1",
+      "name" : "Greater Fredericksburg Medical Outreach",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-741-0088"
+        }
+      ],
+      "services" : [
+        "medical"
+      ],
+      "website" : "https:\/\/www.gfmo.org"
+    },
+    {
+      "address" : "132 Germanna Point Dr, Fredericksburg, VA 22408",
+      "description" : "Low-cost preventive dental care provided by dental hygiene students under the supervision of licensed dental professionals.",
+      "eligibility" : "Open to the public; suitable for individuals seeking affordable preventive dental services",
+      "hours" : "Varies by academic semester; appointments required",
+      "id" : "us-va-germanna-dental-hygiene-clinic-1",
+      "name" : "Germanna Community College Dental Hygiene Clinic",
+      "orgType" : "education",
+      "phones" : [
+        {
+          "label" : "Clinic",
+          "number" : "540-891-3000"
+        }
+      ],
+      "services" : [
+        "dental",
+        "medical",
+        "education"
+      ],
+      "website" : "https:\/\/www.germanna.edu"
+    },
+    {
+      "address" : "Multiple clinic locations, Fredericksburg, VA",
+      "description" : "Community-based primary care clinics providing affordable medical services, often serving uninsured or underinsured patients.",
+      "eligibility" : "Open to the community, with emphasis on uninsured and underinsured residents",
+      "hours" : "Varies by clinic location",
+      "id" : "us-va-mwhc-community-care-clinics-1",
+      "name" : "Mary Washington Healthcare Community Care Clinics",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-741-1000"
+        }
+      ],
+      "services" : [
+        "medical",
+        "mental_health",
+        "dental"
+      ],
+      "website" : "https:\/\/www.marywashingtonhealthcare.com\/our-services\/community-health\/"
+    },
+    {
+      "address" : "1320 Central Park Blvd, Fredericksburg, VA 22401",
+      "description" : "Local public health department providing clinical services, disease prevention, environmental health, and community health programs.",
+      "eligibility" : "Residents of the Rappahannock Area Health District service region",
+      "hours" : "Mon-Fri 8am-4:30pm",
+      "id" : "us-va-rahdfxbg-1",
+      "name" : "Rappahannock Area Health District - Fredericksburg Health Department",
+      "orgType" : "state",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-899-4797"
+        }
+      ],
+      "services" : [
+        "medical",
+        "mental_health",
+        "education"
+      ],
+      "website" : "https:\/\/www.vdh.virginia.gov\/rappahannock\/"
+    },
+    {
+      "address" : "471 Central Rd, Fredericksburg, VA 22401",
+      "description" : "Provides free primary medical care, specialty referrals, mental health services, and medications to uninsured, low-income adults.",
+      "eligibility" : "Uninsured adults with low income; residency in the Fredericksburg region required",
+      "hours" : "By appointment; hours vary by service",
+      "id" : "us-va-fredericksburg-moss-free-clinic-1",
+      "name" : "Moss Free Clinic (Lloyd F. Moss Free Clinic)",
+      "orgType" : "charity",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-741-1061"
+        }
+      ],
+      "services" : [
+        "medical",
+        "mental_health"
+      ],
+      "website" : "https:\/\/www.mossfreeclinic.org\/"
+    },
+    {
+      "address" : "Fredericksburg, VA",
+      "description" : "Local Alcoholics Anonymous intergroup supporting recovery from alcoholism through meetings, information, and referrals.",
+      "eligibility" : "Individuals seeking help with alcohol addiction",
+      "hours" : "Varies by service and meeting schedule",
+      "id" : "us-va-fredericksburg-aa-intergroup-1",
+      "name" : "Alcoholics Anonymous – Fredericksburg Intergroup",
+      "orgType" : "charity",
+      "phones" : [
+        {
+          "label" : "24-Hour Helpline",
+          "number" : "540-373-4144"
+        }
+      ],
+      "services" : [
+        "mental_health"
+      ],
+      "website" : "https:\/\/www.fredericksburgaa.org\/"
+    },
+    {
+      "address" : "Fredericksburg, VA (meeting locations vary)",
+      "description" : "A nonprofit, peer-led fellowship providing a 12-step recovery program for individuals seeking freedom from drug addiction.",
+      "eligibility" : "Anyone with a desire to stop using drugs",
+      "hours" : "Meetings held daily at various times and locations",
+      "id" : "us-va-fredericksburg-na-area-1",
+      "name" : "Narcotics Anonymous – Fredericksburg Area",
+      "orgType" : "charity",
+      "phones" : [
+        {
+          "label" : "Helpline",
+          "number" : "1-800-777-1515"
+        }
+      ],
+      "services" : [
+        "mental_health"
+      ],
+      "website" : "https:\/\/www.fredericksburgareana.org"
+    },
+    {
+      "address" : "1101 Jefferson Davis Hwy, Fredericksburg, VA 22401",
+      "description" : "Provides charitable assistance and social services including emergency aid, counseling, and immigration-related support to individuals and families in the Fredericksburg region.",
+      "eligibility" : "Open to individuals and families in need within the Fredericksburg region; some programs have income or residency requirements.",
+      "hours" : "Mon–Fri, 9am–5pm",
+      "id" : "us-va-fredericksburg-catholic-charities-1",
+      "name" : "Catholic Charities Diocese of Arlington – Fredericksburg Office",
+      "orgType" : "charity",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-1124"
+        }
+      ],
+      "services" : [
+        "food",
+        "financial",
+        "housing",
+        "legal",
+        "mental_health"
+      ],
+      "website" : "https:\/\/www.catholiccharitiesda.org\/fredericksburg"
+    },
+    {
+      "address" : "2300 Fall Hill Ave, Fredericksburg, VA 22401",
+      "description" : "Nonprofit regional healthcare system providing hospital, outpatient, and specialty medical services to Central Virginia.",
+      "eligibility" : "Open to the general public; specific services may have medical or insurance requirements",
+      "hours" : "Varies by facility and department; hospitals operate 24\/7",
+      "id" : "us-va-mary-washington-healthcare-1",
+      "name" : "Mary Washington Healthcare",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-741-1000"
+        }
+      ],
+      "services" : [
+        "medical",
+        "mental_health"
+      ],
+      "website" : "https:\/\/www.marywashingtonhealthcare.com\/"
+    },
+    {
+      "address" : "PO Box 72, Fredericksburg, VA 22404",
+      "description" : "Local affiliate of the National Alliance on Mental Illness providing education, support groups, and advocacy for individuals and families affected by mental illness.",
+      "eligibility" : "Individuals with mental illness, family members, and community members in the Rappahannock Area",
+      "hours" : "Varies by program; support groups and classes offered on scheduled dates",
+      "id" : "us-va-nami-rappahannock-area-1",
+      "name" : "National Alliance on Mental Illness (NAMI) Rappahannock Area",
+      "orgType" : "charity",
+      "phones" : [
+        {
+          "label" : "Helpline",
+          "number" : "540-371-2704"
+        }
+      ],
+      "services" : [
+        "mental_health",
+        "education"
+      ],
+      "website" : "https:\/\/namirappahannock.org\/"
+    },
+    {
+      "address" : "2217 Princess Anne St, Fredericksburg, VA 22401",
+      "description" : "Community-based nonprofit providing mental health education, peer support, advocacy, and suicide prevention programs in the Fredericksburg region.",
+      "eligibility" : "Open to individuals, families, and community members in the Fredericksburg region",
+      "hours" : "Mon–Fri, 9am–5pm",
+      "id" : "us-va-fredericksburg-mha-1",
+      "name" : "Mental Health America of Fredericksburg",
+      "orgType" : "charity",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-2704"
+        }
+      ],
+      "services" : [
+        "mental_health",
+        "education"
+      ],
+      "website" : "https:\/\/www.mhafred.org\/"
+    },
+    {
+      "address" : "600 Jackson St, Fredericksburg, VA 22401",
+      "description" : "Public provider of behavioral health, developmental disability, and substance use services for the Rappahannock Area.",
+      "eligibility" : "Residents of Fredericksburg City, Spotsylvania County, Stafford County, or King George County who meet program criteria",
+      "hours" : "Mon–Fri 8:30am–5pm",
+      "id" : "us-va-rappahannock-area-csb-1",
+      "name" : "Rappahannock Area Community Services Board",
+      "orgType" : "regional",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-373-3223"
+        },
+        {
+          "label" : "Emergency Services (24\/7)",
+          "number" : "540-373-6876"
+        }
+      ],
+      "services" : [
+        "mental_health",
+        "medical"
+      ],
+      "website" : "https:\/\/www.racsb.org\/"
+    },
+    {
+      "address" : "4900 Hickory Dr, Fredericksburg, VA 22407",
+      "description" : "Faith-based community church offering worship services and local outreach, including food assistance programs.",
+      "eligibility" : "Open to the public; food assistance subject to program availability",
+      "hours" : "Varies by service and program",
+      "id" : "us-va-fredericksburg-peace-umc-1",
+      "name" : "Peace United Methodist Church",
+      "orgType" : "faith-based",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-898-1616"
+        }
+      ],
+      "services" : [
+        "food"
+      ],
+      "website" : "https:\/\/www.peaceumcva.org\/"
+    },
+    {
+      "address" : "900 Charlotte St, Fredericksburg, VA 22401",
+      "description" : "Faith-based outreach ministry providing food assistance and basic support to individuals and families in need in the Fredericksburg area.",
+      "eligibility" : "Open to individuals and families in need",
+      "hours" : "Varies by program; contact church for current schedule",
+      "id" : "us-va-fredericksburg-fairviewbaptist-genesis",
+      "name" : "Fairview Baptist Church – Genesis Ministry",
+      "orgType" : "faith_based",
+      "phones" : [
+        {
+          "label" : "Church Office",
+          "number" : "540-373-6355"
+        }
+      ],
+      "services" : [
+        "food"
+      ],
+      "website" : "https:\/\/www.fairviewbaptistchurch.org"
+    },
+    {
+      "address" : "10002 Southpoint Pkwy, Fredericksburg, VA 22407",
+      "description" : "Provides emergency utility assistance through the EnergyShare program to help households avoid electric or heating service disconnection.",
+      "eligibility" : "Households in the Fredericksburg region experiencing a utility crisis and meeting income and program guidelines",
+      "hours" : "Mon–Fri, business hours (call for appointment and availability)",
+      "id" : "us-va-fredericksburg-salvation-army-energyshare",
+      "name" : "EnergyShare – Salvation Army (Fredericksburg)",
+      "orgType" : "charity",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-373-3431"
+        }
+      ],
+      "services" : [
+        "utilities",
+        "financial"
+      ],
+      "website" : "https:\/\/www.salvationarmyusa.org\/usn\/"
+    },
+    {
       "address" : "Multiple clinic locations across the Rappahannock Area Health District",
       "description" : "Provides nutrition assistance, healthy food benefits, nutrition education, breastfeeding support, and health referrals for eligible women, infants, and young children through the federal WIC program.",
       "eligibility" : "Pregnant women, postpartum and breastfeeding women, infants, and children under age five who meet income and residency requirements",
