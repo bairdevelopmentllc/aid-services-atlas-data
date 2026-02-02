@@ -3,6 +3,10 @@
     {
       "id" : "testing 1",
       "name" : "New test"
+    },
+    {
+      "id" : "new-provider",
+      "name" : "New Provider"
     }
   ]
 }
