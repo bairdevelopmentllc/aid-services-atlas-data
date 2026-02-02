@@ -48,9 +48,13 @@
       "id" : "us-va-fastforward-1",
       "name" : "FastForward Virginia",
       "orgType" : "state",
+      "phones" : [
+
+      ],
       "services" : [
+        "employment",
         "education",
-        "employment"
+        "financial"
       ],
       "website" : "https:\/\/fastforwardva.org"
     },
@@ -232,15 +236,15 @@
       "phones" : [
         {
           "label" : "Virginia DSS Main",
-          "number" : "804-726-7000"
+          "number" : "800-452-6863"
         }
       ],
       "services" : [
-        "water",
+        "financial",
         "utilities",
-        "financial"
+        "water"
       ],
-      "website" : "https:\/\/www.dss.virginia.gov\/benefit\/lihwap.cgi"
+      "website" : "https:\/\/www.amwater.com\/vaaw\/Customer-Service-Billing\/lihwap"
     },
     {
       "address" : "Service territory across DC, Northern Virginia, and Maryland",
