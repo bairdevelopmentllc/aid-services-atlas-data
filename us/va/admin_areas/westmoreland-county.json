@@ -1,108 +1,113 @@
 {
-  "providers": [
-	  {
-  "id": "us-va-westmoreland-mealsonwheels-1",
-  "name": "Westmoreland County Meals on Wheels",
-  "orgType": "county",
-  "address": "18849 Kings Hwy, Montross, VA 22520",
-  "description": "Provides home-delivered meals to eligible residents of Westmoreland County who are unable to prepare meals independently.",
-  "eligibility": "Homebound residents of Westmoreland County, including seniors and adults with disabilities.",
-  "hours": "Mon-Fri 8am-4:30pm",
-  "phones": [
+  "providers" : [
     {
-      "label": "Main",
-      "number": "804-493-0138"
-    }
-  ],
-  "services": [
-    "food"
-  ],
-  "website": "https://www.westmoreland-county.org/MealsOnWheels"
-},
-{
-  "id": "us-va-westmoreland-dss-childcare-1",
-  "name": "Westmoreland County Department of Social Services - Child Care Subsidy",
-  "orgType": "county",
-  "address": "18849 Kings Hwy, Montross, VA 22520",
-  "description": "Local child care subsidy administration supporting working families.",
-  "eligibility": "Westmoreland County residents meeting Virginia Child Care Subsidy criteria.",
-  "hours": "Mon-Fri 8am-4pm",
-  "phones": [{ "label": "Main", "number": "804-493-9300" }],
-  "services": ["childcare", "financial"],
-  "website": "https://www.westmoreland-county.org/social-services"
-},
-{
-  "id": "us-va-rappahannock-ymca-1",
-  "name": "YMCA of the Virginia Peninsulas - Rappahannock Area",
-  "orgType": "nonprofit",
-  "address": "Multiple locations serving Fredericksburg and surrounding counties, VA",
-  "description": "Community-based programs focused on youth development, healthy living, and social responsibility, including childcare, education enrichment, and wellness programs.",
-  "eligibility": "Open to the public; some programs require membership or income-based qualification for financial assistance",
-  "hours": "Varies by program and location",
-  "phones": [
+      "address" : "18849 Kings Hwy, Montross, VA 22520",
+      "description" : "Provides home-delivered meals to eligible residents of Westmoreland County who are unable to prepare meals independently.",
+      "eligibility" : "Homebound residents of Westmoreland County, including seniors and adults with disabilities.",
+      "hours" : "Mon-Fri 8am-4:30pm",
+      "id" : "us-va-westmoreland-mealsonwheels-1",
+      "name" : "Westmoreland County Meals on Wheels",
+      "orgType" : "county",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "804-493-0138"
+        }
+      ],
+      "services" : [
+        "food"
+      ]
+    },
     {
-      "label": "Main",
-      "number": "540-371-9622"
-    }
-  ],
-  "services": [
-    "childcare",
-    "education",
-    "mental_health",
-    "employment"
-  ],
-  "website": "https://www.peninsulas.org"
-},
-{
-  "id": "us-va-fredericksburg-regional-food-bank",
-  "name": "Fredericksburg Regional Food Bank",
-  "orgType": "charity",
-  "address": "3631 Lee Hill Dr, Fredericksburg, VA 22408",
-  "description": "Regional food bank providing food assistance through a network of partner agencies serving individuals and families facing food insecurity.",
-  "eligibility": "Individuals and families experiencing food insecurity within the service region (accessed through partner agencies)",
-  "hours": "Mon–Fri, 8:00am–4:00pm",
-  "phones": [
+      "address" : "18849 Kings Hwy, Montross, VA 22520",
+      "description" : "Local child care subsidy administration supporting working families.",
+      "eligibility" : "Westmoreland County residents meeting Virginia Child Care Subsidy criteria.",
+      "hours" : "Mon-Fri 8am-4pm",
+      "id" : "us-va-westmoreland-dss-childcare-1",
+      "name" : "Westmoreland County Department of Social Services - Child Care Subsidy",
+      "orgType" : "county",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "804-493-9300"
+        }
+      ],
+      "services" : [
+        "childcare",
+        "financial"
+      ],
+      "website" : "https:\/\/www.westmoreland-county.org\/social-services"
+    },
     {
-      "label": "Main",
-      "number": "540-371-7666"
-    }
-  ],
-  "services": [
-    "food"
-  ],
-  "website": "https://fredfood.org/",
-  "notes": "Food is distributed through partner pantries and programs. Individuals should contact a local pantry or dial 211 for referral.",
-  "includedAdminAreas": [
-    "Fredericksburg city, VA",
-    "Spotsylvania County, VA",
-    "Stafford County, VA",
-    "King George County, VA",
-    "Caroline County, VA",
-    "Westmoreland County, VA"
-  ]
-},
-	  {
-  "id": "us-va-rcasa-1",
-  "name": "Rappahannock Council Against Sexual Assault",
-  "orgType": "nonprofit",
-  "address": "P.O. Box 2927, Fredericksburg, VA 22402",
-  "description": "Provides crisis intervention, advocacy, and support services for survivors of sexual violence.",
-  "eligibility": "Survivors of sexual assault and their non-offending family members",
-  "hours": "24-hour crisis hotline; office hours vary",
-  "phones": [
+      "address" : "Multiple locations serving Fredericksburg and surrounding counties, VA",
+      "description" : "Community-based programs focused on youth development, healthy living, and social responsibility, including childcare, education enrichment, and wellness programs.",
+      "eligibility" : "Open to the public; some programs require membership or income-based qualification for financial assistance",
+      "hours" : "Varies by program and location",
+      "id" : "us-va-rappahannock-ymca-1",
+      "name" : "YMCA of the Virginia Peninsulas - Rappahannock Area",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-9622"
+        }
+      ],
+      "services" : [
+        "childcare",
+        "education",
+        "mental_health",
+        "employment"
+      ],
+      "website" : "https:\/\/www.peninsulas.org"
+    },
     {
-      "label": "24-Hour Hotline",
-      "number": "540-371-1666"
+      "address" : "3631 Lee Hill Dr, Fredericksburg, VA 22408",
+      "description" : "Regional food bank providing food assistance through a network of partner agencies serving individuals and families facing food insecurity.",
+      "eligibility" : "Individuals and families experiencing food insecurity within the service region (accessed through partner agencies)",
+      "hours" : "Mon–Fri, 8:00am–4:00pm",
+      "id" : "us-va-fredericksburg-regional-food-bank",
+      "includedAdminAreas" : [
+        "Fredericksburg city, VA",
+        "Spotsylvania County, VA",
+        "Stafford County, VA",
+        "King George County, VA",
+        "Caroline County, VA",
+        "Westmoreland County, VA"
+      ],
+      "name" : "Fredericksburg Regional Food Bank",
+      "notes" : "Food is distributed through partner pantries and programs. Individuals should contact a local pantry or dial 211 for referral.",
+      "orgType" : "charity",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-7666"
+        }
+      ],
+      "services" : [
+        "food"
+      ],
+      "website" : "https:\/\/fredfood.org\/"
+    },
+    {
+      "address" : "P.O. Box 2927, Fredericksburg, VA 22402",
+      "description" : "Provides crisis intervention, advocacy, and support services for survivors of sexual violence.",
+      "eligibility" : "Survivors of sexual assault and their non-offending family members",
+      "hours" : "24-hour crisis hotline; office hours vary",
+      "id" : "us-va-rcasa-1",
+      "name" : "Rappahannock Council Against Sexual Assault",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "24-Hour Hotline",
+          "number" : "540-371-1666"
+        }
+      ],
+      "services" : [
+        "mental_health",
+        "legal",
+        "education"
+      ],
+      "website" : "https:\/\/www.rcasa.org"
     }
-  ],
-  "services": [
-    "mental_health",
-    "legal",
-    "education"
-  ],
-  "website": "https://www.rcasa.org"
-}
-
-
   ]
 }
