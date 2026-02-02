@@ -347,13 +347,13 @@
       "phones" : [
         {
           "label" : "24-Hour Hotline",
-          "number" : "540-371-1666"
+          "number" : "540-371-6771"
         }
       ],
       "services" : [
-        "mental_health",
+        "education",
         "legal",
-        "education"
+        "mental_health"
       ],
       "website" : "https:\/\/www.rcasa.org"
     },
