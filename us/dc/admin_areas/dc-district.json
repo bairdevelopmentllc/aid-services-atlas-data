@@ -1,8 +1,8 @@
 {
   "providers" : [
     {
-      "id" : "new-provider",
-      "name" : "New Provider"
+      "id" : "testing 1",
+      "name" : "New test"
     }
   ]
 }
