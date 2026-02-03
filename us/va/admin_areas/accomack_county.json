@@ -1,8 +1,26 @@
 {
   "providers" : [
     {
-      "id" : "077c0b4b-9e44-4ef2-8fdc-825841a36e8c",
-      "name" : ""
+      "address" : "23396 Courthouse Ave, Suite 200, Accomac, VA 23301",
+      "description" : "Local public benefits assistance, family services, and case management for county residents.\"",
+      "eligibility" : "Residents of Accomack County",
+      "hours" : "Mon–Fri 8:00am–4:30pm",
+      "id" : "accomack-county-department-of-social-services",
+      "name" : "Accomack County Department of Social Services",
+      "orgType" : "county",
+      "phones" : [
+        {
+          "label" : "Office",
+          "number" : "(757) 787-1530"
+        }
+      ],
+      "services" : [
+        "childcare",
+        "financial",
+        "food",
+        "medical"
+      ],
+      "website" : "https:\/\/www.co.accomack.va.us\/departments\/social-services"
     }
   ]
 }
