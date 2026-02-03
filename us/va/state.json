@@ -303,8 +303,7 @@
         }
       ],
       "services" : [
-        "utilities",
-        "financial"
+        "utilities"
       ],
       "website" : "https:\/\/www.dominionenergy.com\/virginia\/billing\/energy-assistance"
     },
