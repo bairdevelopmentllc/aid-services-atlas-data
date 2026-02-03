@@ -211,6 +211,7 @@
       "hours" : "Varies by customer service center",
       "id" : "va-american-water-h2o-help",
       "name" : "Virginia American Water – H2O Help to Others Program",
+      "notes" : "Apply online https:\/\/www.hardshiptools.org\/MyApp\/",
       "orgType" : "company",
       "phones" : [
         {
@@ -219,11 +220,11 @@
         }
       ],
       "services" : [
+        "financial",
         "utilities",
-        "water",
-        "financial"
+        "water"
       ],
-      "website" : "https:\/\/www.amwater.com\/vaaw\/customer-service-billing\/assistance-programs\/"
+      "website" : "https:\/\/amwater.com\/vaaw\/Customer-Service-Billing\/customer-assistance-programs"
     },
     {
       "address" : "801 E Main St, Richmond, VA 23219",
