@@ -262,10 +262,11 @@
         }
       ],
       "services" : [
+        "utilities",
         "gas",
-        "utilities"
+        "financial"
       ],
-      "website" : "https:\/\/wgsmartsavings.com\/programs-rebates\/va\/income_qualifying_energy_efficiency_program"
+      "website" : "https:\/\/www.washingtongas.com\/savings\/for-your-home\/energy-efficiency-programs\/income-qualified-programs"
     },
     {
       "address" : "",
