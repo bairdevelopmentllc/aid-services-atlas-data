@@ -34,9 +34,9 @@
         }
       ],
       "services" : [
+        "education",
         "employment",
-        "financial",
-        "education"
+        "financial"
       ],
       "website" : "https:\/\/www.vec.virginia.gov"
     },
