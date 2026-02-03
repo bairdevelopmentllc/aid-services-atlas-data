@@ -89,14 +89,14 @@
       "phones" : [
         {
           "label" : "Virginia Department of Education",
-          "number" : "804-225-2020"
+          "number" : "800-292-3820"
         }
       ],
       "services" : [
-        "education",
-        "childcare"
+        "childcare",
+        "education"
       ],
-      "website" : "https:\/\/www.doe.virginia.gov\/early-childhood\/preschool-initiatives\/virginia-preschool-initiative"
+      "website" : "https:\/\/www.doe.virginia.gov\/teaching-learning-assessment\/early-childhood-care-education\/virginia-preschool-initiative"
     },
     {
       "address" : "600 E Broad St, Richmond, VA 23219",
