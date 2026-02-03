@@ -353,7 +353,7 @@
       "hours" : "24\/7",
       "id" : "2-1-1-virginia",
       "name" : "2-1-1 Virginia",
-      "orgType" : "Government",
+      "orgType" : "state",
       "phones" : [
         {
           "label" : "main",
