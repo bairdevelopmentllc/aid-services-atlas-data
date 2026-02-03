@@ -145,21 +145,21 @@
       "address" : "PO Box 1893, Fredericksburg, VA 22402",
       "description" : "Provides crisis intervention, advocacy, shelter, and support services for survivors of domestic violence and sexual assault.",
       "eligibility" : "Individuals affected by domestic violence or sexual assault in the Fredericksburg region",
-      "hours" : "24-hour crisis hotline; administrative hours vary",
+      "hours" : "Administrative hours vary",
       "id" : "us-va-saara-1",
       "name" : "SAARA of Virginia",
       "orgType" : "charity",
       "phones" : [
         {
-          "label" : "24-Hour Hotline",
-          "number" : "540-371-1666"
+          "label" : "Main",
+          "number" : "804-762-4445"
         }
       ],
       "services" : [
-        "shelter",
         "housing",
+        "legal",
         "mental_health",
-        "legal"
+        "shelter"
       ],
       "website" : "https:\/\/www.saara.org\/"
     },
