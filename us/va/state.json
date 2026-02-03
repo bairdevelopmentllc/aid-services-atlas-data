@@ -134,12 +134,12 @@
         }
       ],
       "services" : [
-        "legal",
-        "mental_health",
+        "education",
         "financial",
-        "education"
+        "legal",
+        "mental_health"
       ],
-      "website" : "https:\/\/www.vvan.org\/"
+      "website" : "https:\/\/vanetwork.org\/"
     },
     {
       "address" : "PO Box 1893, Fredericksburg, VA 22402",
