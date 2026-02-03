@@ -64,6 +64,7 @@ header{
   display:flex; align-items:center; justify-content:space-between;
   padding:.9rem 0;
   gap:1rem;
+  position:relative;
 }
 
 .brand{
@@ -101,6 +102,73 @@ header{
   border-color: rgba(30,167,160,.35);
   color:var(--text);
 }
+
+.nav-toggle{
+  display:none;
+  align-items:center;
+  justify-content:center;
+  width:42px;
+  height:42px;
+  border-radius:12px;
+  border:1px solid rgba(255,255,255,.18);
+  background: rgba(255,255,255,.07);
+  color:var(--text);
+}
+.nav-toggle:hover{
+  border-color: rgba(66,230,164,.40);
+  background: rgba(66,230,164,.08);
+}
+.nav-toggle-lines,
+.nav-toggle-lines::before,
+.nav-toggle-lines::after{
+  content:"";
+  display:block;
+  width:20px;
+  height:2px;
+  border-radius:999px;
+  background: var(--text);
+  position:relative;
+}
+.nav-toggle-lines::before{
+  position:absolute;
+  top:-6px;
+  left:0;
+}
+.nav-toggle-lines::after{
+  position:absolute;
+  top:6px;
+  left:0;
+}
+
+.nav-mobile{
+  display:none;
+  position:absolute;
+  top:100%;
+  left:0;
+  right:0;
+  padding:.75rem;
+  background: rgba(5,10,20,.96);
+  border-bottom:1px solid rgba(42,77,102,.45);
+  box-shadow: 0 18px 40px rgba(0,0,0,.45);
+}
+.nav-mobile a{
+  display:block;
+  padding:.7rem .9rem;
+  border-radius:12px;
+  color:var(--muted);
+  border:1px solid transparent;
+}
+.nav-mobile a:hover{
+  border-color: rgba(66,230,164,.35);
+  background: rgba(66,230,164,.06);
+  color:var(--text);
+}
+.nav-mobile a.active{
+  background: rgba(30,167,160,.10);
+  border-color: rgba(30,167,160,.35);
+  color:var(--text);
+}
+.nav-mobile.is-open{display:block}
 
 .nav-cta{
   display:flex; align-items:center; gap:.6rem;
@@ -332,11 +400,26 @@ input:focus, textarea:focus{
   display:flex; gap:.9rem; flex-wrap:wrap;
 }
 
+.sr-only{
+  position:absolute;
+  width:1px;
+  height:1px;
+  padding:0;
+  margin:-1px;
+  overflow:hidden;
+  clip:rect(0,0,0,0);
+  white-space:nowrap;
+  border:0;
+}
+
 /* Responsive */
 @media (max-width: 920px){
   .hero-grid{grid-template-columns: 1fr; }
   .grid-3{grid-template-columns: 1fr; }
   .nav-links{display:none}
+  .nav-toggle{display:inline-flex}
+  .nav-cta .badge{display:none}
+  .nav-mobile{display:none}
 }
 @media (max-width: 520px){
   .brand small{display:none}

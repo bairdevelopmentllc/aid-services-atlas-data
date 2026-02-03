@@ -21,7 +21,7 @@
     </a>
 
     <nav class="nav-links" aria-label="Primary">
-      <a class="active" href="index.html">Home</a>
+      <a class="active" aria-current="page" href="index.html">Home</a>
       <a href="features.html">Features</a>
       <a href="stewards.html">Stewards</a>
       <a href="donations.html">Donations</a>
@@ -29,11 +29,25 @@
       <a href="privacy.html">Privacy</a>
     </nav>
 
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="navMenu" data-nav-toggle>
+      <span class="nav-toggle-lines" aria-hidden="true"></span>
+      <span class="sr-only">Menu</span>
+    </button>
+
     <div class="nav-cta">
       <span class="badge">No ads • No tracking</span>
       <a class="button primary" href="donations.html">Support ASA</a>
     </div>
   </div>
+
+  <nav class="nav-mobile" id="navMenu" aria-label="Mobile" data-nav-menu>
+    <a class="active" aria-current="page" href="index.html">Home</a>
+      <a href="features.html">Features</a>
+      <a href="stewards.html">Stewards</a>
+      <a href="donations.html">Donations</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy</a>
+  </nav>
 </header>
 
 <main id="main">
@@ -153,7 +167,25 @@
   </div>
 
   <script>
-    document.getElementById("y").textContent = new Date().getFullYear();
+    const year = document.getElementById("y");
+    if (year) year.textContent = new Date().getFullYear();
+
+    const toggle = document.querySelector("[data-nav-toggle]");
+    const menu = document.querySelector("[data-nav-menu]");
+    if (toggle && menu) {
+      toggle.addEventListener("click", () => {
+        const expanded = toggle.getAttribute("aria-expanded") === "true";
+        toggle.setAttribute("aria-expanded", String(!expanded));
+        menu.classList.toggle("is-open");
+      });
+
+      menu.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", () => {
+          toggle.setAttribute("aria-expanded", "false");
+          menu.classList.remove("is-open");
+        });
+      });
+    }
   </script>
 </footer>
 </body>

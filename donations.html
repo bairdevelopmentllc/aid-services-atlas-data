@@ -12,10 +12,10 @@
 
 <header>
   <div class="container navbar">
-    <a class="brand" href="index.html" aria-label="Aid &amp; Services Atlas Home">
+    <a class="brand" href="index.html" aria-label="Aid & Services Atlas Home">
       <span class="brand-mark" aria-hidden="true"></span>
       <span>
-        Aid &amp; Services Atlas
+        Aid & Services Atlas
         <small>Offline-first civic directory</small>
       </span>
     </a>
@@ -24,16 +24,30 @@
       <a href="index.html">Home</a>
       <a href="features.html">Features</a>
       <a href="stewards.html">Stewards</a>
-      <a class="active" href="donations.html" aria-current="page">Donations</a>
+      <a class="active" aria-current="page" href="donations.html">Donations</a>
       <a href="contact.html">Contact</a>
       <a href="privacy.html">Privacy</a>
     </nav>
+
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="navMenu" data-nav-toggle>
+      <span class="nav-toggle-lines" aria-hidden="true"></span>
+      <span class="sr-only">Menu</span>
+    </button>
 
     <div class="nav-cta">
       <span class="badge">No ads • No tracking</span>
       <a class="button primary" href="donations.html">Support ASA</a>
     </div>
   </div>
+
+  <nav class="nav-mobile" id="navMenu" aria-label="Mobile" data-nav-menu>
+    <a href="index.html">Home</a>
+      <a href="features.html">Features</a>
+      <a href="stewards.html">Stewards</a>
+      <a class="active" aria-current="page" href="donations.html">Donations</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy</a>
+  </nav>
 </header>
 
 <main id="main">
@@ -183,16 +197,39 @@
   <div class="container footer-grid">
     <div>
       <strong>Aid &amp; Services Atlas</strong><br />
-      <small>Earth-inspired, community-powered service discovery.</small>
+      <small>Offline-first civic infrastructure for finding help.</small>
     </div>
-    <div class="footer-links">
+    <div class="footer-links" aria-label="Footer">
       <a href="features.html">Features</a>
       <a href="stewards.html">Stewards</a>
       <a href="donations.html">Donations</a>
       <a href="contact.html">Contact</a>
       <a href="privacy.html">Privacy</a>
     </div>
+    <small>© <span id="y"></span> Aid &amp; Services Atlas</small>
   </div>
+
+  <script>
+    const year = document.getElementById("y");
+    if (year) year.textContent = new Date().getFullYear();
+
+    const toggle = document.querySelector("[data-nav-toggle]");
+    const menu = document.querySelector("[data-nav-menu]");
+    if (toggle && menu) {
+      toggle.addEventListener("click", () => {
+        const expanded = toggle.getAttribute("aria-expanded") === "true";
+        toggle.setAttribute("aria-expanded", String(!expanded));
+        menu.classList.toggle("is-open");
+      });
+
+      menu.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", () => {
+          toggle.setAttribute("aria-expanded", "false");
+          menu.classList.remove("is-open");
+        });
+      });
+    }
+  </script>
 </footer>
 </body>
 </html>
