@@ -253,7 +253,7 @@
       "eligibility" : "Income-qualified Washington Gas residential customers; eligibility typically based on household income at or below program thresholds or participation in qualifying assistance programs",
       "hours" : "Varies by program administrator",
       "id" : "us-midatlantic-washington-gas-iqeep",
-      "name" : "Washington Gas – Income Qualifying Energy Efficiency Program",
+      "name" : "https:\/\/wgsmartsavings.com\/programs-rebates\/va\/income_qualifying_energy_efficiency_program",
       "orgType" : "utility",
       "phones" : [
         {
@@ -262,9 +262,9 @@
         }
       ],
       "services" : [
-        "utilities",
+        "financial",
         "gas",
-        "financial"
+        "utilities"
       ],
       "website" : "https:\/\/www.washingtongas.com\/savings\/for-your-home\/energy-efficiency-programs\/income-qualified-programs"
     },
