@@ -610,11 +610,11 @@
         }
       ],
       "services" : [
-        "food",
         "financial",
+        "food",
         "utilities"
       ],
-      "website" : "https:\/\/cmcfred.org\/"
+      "website" : "http:\/\/communityministrycenter.org"
     },
     {
       "address" : "Multiple clinic locations across the Rappahannock Area Health District",
