@@ -506,7 +506,7 @@
       "services" : [
         "mental_health"
       ],
-      "website" : "https:\/\/www.fredericksburgaa.org\/"
+      "website" : "https:\/\/addictionresource.com\/aa-meetings\/fredericksburg-va\/"
     },
     {
       "address" : "Fredericksburg, VA (meeting locations vary)",
@@ -542,13 +542,13 @@
         }
       ],
       "services" : [
-        "financial",
         "food",
+        "financial",
         "housing",
         "legal",
         "mental_health"
       ],
-      "website" : "https:\/\/www.arlingtondiocese.org"
+      "website" : "https:\/\/www.catholiccharitiesda.org\/fredericksburg"
     },
     {
       "address" : "2300 Fall Hill Ave, Fredericksburg, VA 22401",
@@ -750,11 +750,11 @@
         }
       ],
       "services" : [
-        "food",
         "financial",
+        "food",
         "utilities"
       ],
-      "website" : "https:\/\/cmcfred.org\/"
+      "website" : "http:\/\/communityministrycenter.org"
     },
     {
       "address" : "Multiple clinic locations across the Rappahannock Area Health District",
