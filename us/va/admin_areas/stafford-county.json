@@ -25,26 +25,6 @@
       "website" : "https:\/\/www.rappahannockareaaa.org"
     },
     {
-      "address" : "210 Ferdinand Day Dr, Fredericksburg, VA 22401",
-      "description" : "Provides adult education services including high school equivalency preparation, English language instruction, and workforce readiness programs for adults in the Fredericksburg region.",
-      "eligibility" : "Adults 18 and older seeking adult education, GED preparation, English language learning, or workforce skills training",
-      "hours" : "Varies by program; daytime and evening classes available",
-      "id" : "us-va-fredericksburg-fcps-adulted-1",
-      "name" : "Fredericksburg City Public Schools Adult Education",
-      "orgType" : "school_district",
-      "phones" : [
-        {
-          "label" : "Adult Education Office",
-          "number" : "540-368-6341"
-        }
-      ],
-      "services" : [
-        "education",
-        "employment"
-      ],
-      "website" : "https:\/\/www.cityschools.com\/domain\/214"
-    },
-    {
       "address" : "2130 Germanna Hwy, Locust Grove, VA 22508",
       "description" : "Adult education, workforce training, and career readiness programs serving the Germanna Community College region.",
       "eligibility" : "Adults seeking education, workforce skills, credentials, or career advancement within the Germanna service region",
@@ -296,6 +276,26 @@
       "website" : "https:\/\/www.peninsulas.org"
     },
     {
+      "address" : "3001 Lafayette Blvd, Fredericksburg, VA 22401",
+      "description" : "Provides after-school and out-of-school time programs for youth, focused on academic success, character development, and healthy lifestyles.",
+      "eligibility" : "Children and teens, generally ages 6–18, in the Rappahannock Area",
+      "hours" : "Varies by club location and school calendar",
+      "id" : "us-va-rappahannock-bgca-1",
+      "name" : "Boys & Girls Clubs of the Rappahannock Area",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-371-7458"
+        }
+      ],
+      "services" : [
+        "education",
+        "childcare"
+      ],
+      "website" : "https:\/\/www.bgcrappahannock.org"
+    },
+    {
       "address" : "10714 Courthouse Rd, Fredericksburg, VA 22407",
       "description" : "Provides one-to-one youth mentoring programs that support positive youth development through professionally supported, long-term relationships.",
       "eligibility" : "Children and youth typically ages 6–18 in the Greater Fredericksburg area; volunteer mentors must meet screening requirements.",
@@ -487,25 +487,6 @@
         "mental_health"
       ],
       "website" : "https:\/\/www.mossfreeclinic.org\/"
-    },
-    {
-      "address" : "Fredericksburg, VA",
-      "description" : "Local Alcoholics Anonymous intergroup supporting recovery from alcoholism through meetings, information, and referrals.",
-      "eligibility" : "Individuals seeking help with alcohol addiction",
-      "hours" : "Varies by service and meeting schedule",
-      "id" : "us-va-fredericksburg-aa-intergroup-1",
-      "name" : "Alcoholics Anonymous – Fredericksburg Intergroup",
-      "orgType" : "charity",
-      "phones" : [
-        {
-          "label" : "24-Hour Helpline",
-          "number" : "540-373-4144"
-        }
-      ],
-      "services" : [
-        "mental_health"
-      ],
-      "website" : "https:\/\/www.fredericksburgaa.org\/"
     },
     {
       "address" : "Fredericksburg, VA (meeting locations vary)",
