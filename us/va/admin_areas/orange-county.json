@@ -2,25 +2,6 @@
   "providers" : [
     {
       "address" : "146 Madison Rd, Orange, VA 22960",
-      "description" : "Provides home-delivered meals to eligible residents of Orange County who are unable to shop or cook independently.",
-      "eligibility" : "Homebound residents of Orange County, including seniors and adults with disabilities.",
-      "hours" : "Mon-Fri 8am-4:30pm",
-      "id" : "us-va-orange-mealsonwheels-1",
-      "name" : "Orange County Meals on Wheels",
-      "orgType" : "county",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-672-1155"
-        }
-      ],
-      "services" : [
-        "food"
-      ],
-      "website" : "https:\/\/www.orangecountyva.gov\/MealsOnWheels"
-    },
-    {
-      "address" : "146 Madison Rd, Orange, VA 22960",
       "description" : "Local child care subsidy administration supporting employment and education.",
       "eligibility" : "Residents of Orange County who meet Virginia program requirements.",
       "hours" : "Mon-Fri 8am-4:30pm",
