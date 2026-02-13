@@ -196,7 +196,7 @@
       "eligibility" : "Open to the public; some programs require membership or income-based qualification for financial assistance",
       "hours" : "Varies by program and location",
       "id" : "us-va-rappahannock-ymca-1",
-      "name" : "YMCA of the Virginia Peninsulas - Rappahannock Area",
+      "name" : "Rappahannock Area YMCA",
       "orgType" : "nonprofit",
       "phones" : [
         {
@@ -207,10 +207,10 @@
       "services" : [
         "childcare",
         "education",
-        "mental_health",
-        "employment"
+        "employment",
+        "mental_health"
       ],
-      "website" : "https:\/\/www.peninsulas.org"
+      "website" : "https:\/\/family-ymca.org\/"
     },
     {
       "address" : "15 Business Blvd, Fredericksburg, VA 22406",
