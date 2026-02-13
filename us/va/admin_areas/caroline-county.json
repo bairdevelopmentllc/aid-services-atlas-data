@@ -70,25 +70,6 @@
       "website" : "https:\/\/www.dvs.virginia.gov\/"
     },
     {
-      "address" : "17202 Richmond Tpke, Milford, VA 22514",
-      "description" : "County program delivering nutritious meals to eligible homebound residents of Caroline County.",
-      "eligibility" : "Homebound residents of Caroline County, including seniors and adults with disabilities.",
-      "hours" : "Mon-Fri 8am-4:30pm",
-      "id" : "us-va-caroline-mealsonwheels-1",
-      "name" : "Caroline County Meals on Wheels",
-      "orgType" : "county",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "804-633-5000"
-        }
-      ],
-      "services" : [
-        "food"
-      ],
-      "website" : "https:\/\/co.caroline.va.us\/129\/Meals-on-Wheels"
-    },
-    {
       "address" : "460 Lendall Lane, Fredericksburg, VA 22405",
       "description" : "Regional Area Agency on Aging providing services, supports, and advocacy for older adults and caregivers in Planning District 16.",
       "eligibility" : "Primarily adults age 60 and older and their caregivers residing in the service area",
@@ -171,7 +152,7 @@
         "childcare",
         "financial"
       ],
-      "website" : "https:\/\/co.caroline.va.us\/278\/Social-Services-Department"
+      "website" : "https:\/\/www.carolinecountyva.gov\/173\/Social-Services"
     },
     {
       "address" : "2300 Fall Hill Ave, Fredericksburg, VA 22401",
