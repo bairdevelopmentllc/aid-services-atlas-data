@@ -1,23 +1,5 @@
 {
   "providers" : [
-    {
-      "address" : "6602 Courts Dr, Prince George, VA 23875",
-      "description" : "County-operated Meals on Wheels program delivering nutritious meals to eligible homebound residents.",
-      "eligibility" : "Homebound residents of Prince George County, primarily seniors and adults with disabilities.",
-      "hours" : "Mon-Fri 8am-4:30pm",
-      "id" : "us-va-princegeorge-mealsonwheels-1",
-      "name" : "Prince George County Meals on Wheels",
-      "orgType" : "county",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "804-733-2650"
-        }
-      ],
-      "services" : [
-        "food"
-      ],
-      "website" : "https:\/\/www.princegeorgecountyva.gov\/MealsOnWheels"
-    }
+
   ]
 }
