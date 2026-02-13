@@ -18,26 +18,6 @@
         "food"
       ],
       "website" : "https:\/\/www.madisonco.virginia.gov\/MealsOnWheels"
-    },
-    {
-      "address" : "145 Schoolhouse Rd, Madison, VA 22727",
-      "description" : "Local administration of the Virginia Child Care Subsidy Program for eligible families.",
-      "eligibility" : "Residents of Madison County who meet Virginia Child Care Subsidy income and activity requirements.",
-      "hours" : "Mon-Fri 8am-4:30pm",
-      "id" : "us-va-madison-dss-childcare-1",
-      "name" : "Madison County Department of Social Services - Child Care Subsidy",
-      "orgType" : "county",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-948-5521"
-        }
-      ],
-      "services" : [
-        "childcare",
-        "financial"
-      ],
-      "website" : "https:\/\/www.madisoncountyva.gov\/201\/Social-Services"
     }
   ]
 }
