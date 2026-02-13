@@ -368,26 +368,6 @@
       "website" : "https:\/\/www.vdh.virginia.gov\/rappahannock\/"
     },
     {
-      "address" : "471 Central Rd, Fredericksburg, VA 22401",
-      "description" : "Provides free primary medical care, specialty referrals, mental health services, and medications to uninsured, low-income adults.",
-      "eligibility" : "Uninsured adults with low income; residency in the Fredericksburg region required",
-      "hours" : "By appointment; hours vary by service",
-      "id" : "us-va-fredericksburg-moss-free-clinic-1",
-      "name" : "Moss Free Clinic (Lloyd F. Moss Free Clinic)",
-      "orgType" : "charity",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-741-1061"
-        }
-      ],
-      "services" : [
-        "medical",
-        "mental_health"
-      ],
-      "website" : "https:\/\/www.mossfreeclinic.org\/"
-    },
-    {
       "address" : "Fredericksburg, VA (meeting locations vary)",
       "description" : "A nonprofit, peer-led fellowship providing a 12-step recovery program for individuals seeking freedom from drug addiction.",
       "eligibility" : "Anyone with a desire to stop using drugs",
