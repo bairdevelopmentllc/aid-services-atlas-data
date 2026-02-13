@@ -489,25 +489,6 @@
       "website" : "https:\/\/www.mossfreeclinic.org\/"
     },
     {
-      "address" : "Fredericksburg, VA",
-      "description" : "Local Alcoholics Anonymous intergroup supporting recovery from alcoholism through meetings, information, and referrals.",
-      "eligibility" : "Individuals seeking help with alcohol addiction",
-      "hours" : "Varies by service and meeting schedule",
-      "id" : "us-va-fredericksburg-aa-intergroup-1",
-      "name" : "Alcoholics Anonymous – Fredericksburg Intergroup",
-      "orgType" : "charity",
-      "phones" : [
-        {
-          "label" : "24-Hour Helpline",
-          "number" : "540-373-4144"
-        }
-      ],
-      "services" : [
-        "mental_health"
-      ],
-      "website" : "https:\/\/www.fredericksburgaa.org\/"
-    },
-    {
       "address" : "Fredericksburg, VA (meeting locations vary)",
       "description" : "A nonprofit, peer-led fellowship providing a 12-step recovery program for individuals seeking freedom from drug addiction.",
       "eligibility" : "Anyone with a desire to stop using drugs",
