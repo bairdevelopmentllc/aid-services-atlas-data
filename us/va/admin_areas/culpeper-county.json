@@ -21,25 +21,6 @@
       "website" : "https:\/\/germanna.edu\/adult-education-workforce"
     },
     {
-      "address" : "163 Culpeper Ave, Culpeper, VA 22701",
-      "description" : "Provides home-delivered meals to eligible homebound residents of Culpeper County.",
-      "eligibility" : "Homebound residents of Culpeper County, primarily seniors and adults with disabilities.",
-      "hours" : "Mon-Fri 8am-4:30pm",
-      "id" : "us-va-culpeper-mealsonwheels-1",
-      "name" : "Culpeper County Meals on Wheels",
-      "orgType" : "county",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-727-3435"
-        }
-      ],
-      "services" : [
-        "food"
-      ],
-      "website" : "https:\/\/www.culpepercounty.gov\/MealsOnWheels"
-    },
-    {
       "address" : "1835 Industry Ln, Culpeper, VA 22701",
       "description" : "Administers child care financial assistance through the Virginia Child Care Subsidy Program.",
       "eligibility" : "Culpeper County residents meeting state eligibility guidelines.",
