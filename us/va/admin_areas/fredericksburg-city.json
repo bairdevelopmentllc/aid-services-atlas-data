@@ -1,30 +1,6 @@
 {
   "providers" : [
     {
-      "address" : "600 Jackson St, Fredericksburg, VA 22401",
-      "description" : "Regional agency providing services and supports to help older adults remain independent and connected in their communities.",
-      "eligibility" : "Adults age 60 and older and their caregivers residing in the Rappahannock Area Planning District",
-      "hours" : "Mon-Fri 8am-4:30pm",
-      "id" : "us-va-rappahannock-area-aaa-1",
-      "name" : "Rappahannock Area Agency on Aging",
-      "orgType" : "regional",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-371-3375"
-        }
-      ],
-      "services" : [
-        "food",
-        "transportation",
-        "medical",
-        "housing",
-        "financial",
-        "legal"
-      ],
-      "website" : "https:\/\/www.rappahannockareaaa.org"
-    },
-    {
       "address" : "1320 Central Park Blvd, Fredericksburg, VA 22401",
       "description" : "Provides adult education services including GED preparation, English language learning, adult basic education, and workforce readiness for the Rappahannock Area region.",
       "eligibility" : "Adults aged 18 and older residing in the Rappahannock Area",
