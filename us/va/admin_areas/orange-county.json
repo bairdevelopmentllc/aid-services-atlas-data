@@ -1,26 +1,6 @@
 {
   "providers" : [
     {
-      "address" : "146 Madison Rd, Orange, VA 22960",
-      "description" : "Local child care subsidy administration supporting employment and education.",
-      "eligibility" : "Residents of Orange County who meet Virginia program requirements.",
-      "hours" : "Mon-Fri 8am-4:30pm",
-      "id" : "us-va-orange-dss-childcare-1",
-      "name" : "Orange County Department of Social Services - Child Care Subsidy",
-      "orgType" : "county",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-672-1155"
-        }
-      ],
-      "services" : [
-        "childcare",
-        "financial"
-      ],
-      "website" : "https:\/\/www.orangecountyva.gov\/156\/Social-Services"
-    },
-    {
       "address" : "132 Germanna Point Dr, Fredericksburg, VA 22408",
       "description" : "Low-cost preventive dental care provided by dental hygiene students under the supervision of licensed dental professionals.",
       "eligibility" : "Open to the public; suitable for individuals seeking affordable preventive dental services",
