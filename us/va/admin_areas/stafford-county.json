@@ -154,7 +154,7 @@
       "eligibility" : "Stafford County residents who qualify under Virginia guidelines.",
       "hours" : "Mon-Fri 8am-4:30pm",
       "id" : "us-va-stafford-dss-childcare-1",
-      "name" : "Stafford County Department of Social Services - Child Care Subsidy",
+      "name" : "Stafford County Department of Social Services",
       "orgType" : "county",
       "phones" : [
         {
@@ -166,7 +166,7 @@
         "childcare",
         "financial"
       ],
-      "website" : "https:\/\/www.staffordcountyva.gov\/291\/Social-Services"
+      "website" : "https:\/\/staffordcountyva.gov\/government\/departments_p-z\/social_services\/index.php"
     },
     {
       "address" : "2300 Fall Hill Ave, Fredericksburg, VA 22401",
