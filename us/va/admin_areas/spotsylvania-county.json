@@ -684,14 +684,6 @@
       "eligibility" : "Individuals and families experiencing food insecurity within the service region (accessed through partner agencies)",
       "hours" : "Mon–Fri, 8:00am–4:00pm",
       "id" : "us-va-fredericksburg-regional-food-bank",
-      "includedAdminAreas" : [
-        "Fredericksburg city, VA",
-        "Spotsylvania County, VA",
-        "Stafford County, VA",
-        "King George County, VA",
-        "Caroline County, VA",
-        "Westmoreland County, VA"
-      ],
       "name" : "Fredericksburg Regional Food Bank",
       "notes" : "Food is distributed through partner pantries and programs. Individuals should contact a local pantry or dial 211 for referral.",
       "orgType" : "charity",
