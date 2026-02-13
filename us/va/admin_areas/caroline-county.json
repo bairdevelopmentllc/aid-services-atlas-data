@@ -383,10 +383,10 @@
         }
       ],
       "services" : [
-        "mental_health",
-        "education"
+        "education",
+        "mental_health"
       ],
-      "website" : "https:\/\/namirappahannock.org\/"
+      "website" : "https:\/\/www.nami.org\/find-your-local-nami\/virginia\/nami-rappahannock\/"
     },
     {
       "address" : "2217 Princess Anne St, Fredericksburg, VA 22401",
