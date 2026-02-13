@@ -369,26 +369,6 @@
       "website" : "https:\/\/www.marywashingtonhealthcare.com\/"
     },
     {
-      "address" : "PO Box 72, Fredericksburg, VA 22404",
-      "description" : "Local affiliate of the National Alliance on Mental Illness providing education, support groups, and advocacy for individuals and families affected by mental illness.",
-      "eligibility" : "Individuals with mental illness, family members, and community members in the Rappahannock Area",
-      "hours" : "Varies by program; support groups and classes offered on scheduled dates",
-      "id" : "us-va-nami-rappahannock-area-1",
-      "name" : "National Alliance on Mental Illness (NAMI) Rappahannock Area",
-      "orgType" : "charity",
-      "phones" : [
-        {
-          "label" : "Helpline",
-          "number" : "540-371-2704"
-        }
-      ],
-      "services" : [
-        "mental_health",
-        "education"
-      ],
-      "website" : "https:\/\/namirappahannock.org\/"
-    },
-    {
       "address" : "2217 Princess Anne St, Fredericksburg, VA 22401",
       "description" : "Community-based nonprofit providing mental health education, peer support, advocacy, and suicide prevention programs in the Fredericksburg region.",
       "eligibility" : "Open to individuals, families, and community members in the Fredericksburg region",
