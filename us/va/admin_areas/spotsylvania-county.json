@@ -507,13 +507,13 @@
         }
       ],
       "services" : [
-        "food",
-        "financial",
         "childcare",
+        "financial",
+        "food",
         "medical",
         "utilities"
       ],
-      "website" : "https:\/\/www.spotsylvania.va.us\/284\/Social-Services"
+      "website" : "https:\/\/www.spotsylvania.va.us\/299\/Social-Services"
     },
     {
       "address" : "PO Box 8731, Fredericksburg, VA 22404",
