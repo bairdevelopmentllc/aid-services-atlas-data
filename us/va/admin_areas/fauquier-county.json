@@ -21,25 +21,6 @@
       "website" : "https:\/\/germanna.edu\/adult-education-workforce"
     },
     {
-      "address" : "10 Hotel St, Warrenton, VA 20186",
-      "description" : "County program providing nutritious home-delivered meals to eligible residents of Fauquier County.",
-      "eligibility" : "Homebound residents of Fauquier County, including seniors and adults with disabilities.",
-      "hours" : "Mon-Fri 8am-4:30pm",
-      "id" : "us-va-fauquier-mealsonwheels-1",
-      "name" : "Fauquier County Meals on Wheels",
-      "orgType" : "county",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-422-8400"
-        }
-      ],
-      "services" : [
-        "food"
-      ],
-      "website" : "https:\/\/www.fauquiercounty.gov\/MealsOnWheels"
-    },
-    {
       "address" : "320 Hospital Dr, Warrenton, VA 20186",
       "description" : "Provides public assistance programs, child and adult protective services, foster care, and supportive services to residents of Fauquier County.",
       "eligibility" : "Residents of Fauquier County who meet program requirements.",
