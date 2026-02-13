@@ -368,27 +368,6 @@
       "website" : "https:\/\/empowerhouseva.org"
     },
     {
-      "address" : "132 Germanna Point Dr, Fredericksburg, VA 22408",
-      "description" : "Low-cost preventive dental care provided by dental hygiene students under the supervision of licensed dental professionals.",
-      "eligibility" : "Open to the public; suitable for individuals seeking affordable preventive dental services",
-      "hours" : "Varies by academic semester; appointments required",
-      "id" : "us-va-germanna-dental-hygiene-clinic-1",
-      "name" : "Germanna Community College Dental Hygiene Clinic",
-      "orgType" : "education",
-      "phones" : [
-        {
-          "label" : "Clinic",
-          "number" : "540-891-3000"
-        }
-      ],
-      "services" : [
-        "dental",
-        "medical",
-        "education"
-      ],
-      "website" : "https:\/\/www.germanna.edu"
-    },
-    {
       "address" : "1320 Central Park Blvd, Fredericksburg, VA 22401",
       "description" : "Local public health department providing clinical services, disease prevention, environmental health, and community health programs.",
       "eligibility" : "Residents of the Rappahannock Area Health District service region",
