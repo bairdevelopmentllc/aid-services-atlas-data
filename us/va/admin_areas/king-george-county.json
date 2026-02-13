@@ -276,26 +276,6 @@
       "website" : "https:\/\/www.peninsulas.org"
     },
     {
-      "address" : "3001 Lafayette Blvd, Fredericksburg, VA 22401",
-      "description" : "Provides after-school and out-of-school time programs for youth, focused on academic success, character development, and healthy lifestyles.",
-      "eligibility" : "Children and teens, generally ages 6–18, in the Rappahannock Area",
-      "hours" : "Varies by club location and school calendar",
-      "id" : "us-va-rappahannock-bgca-1",
-      "name" : "Boys & Girls Clubs of the Rappahannock Area",
-      "orgType" : "nonprofit",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-371-7458"
-        }
-      ],
-      "services" : [
-        "education",
-        "childcare"
-      ],
-      "website" : "https:\/\/www.bgcrappahannock.org"
-    },
-    {
       "address" : "15 Business Blvd, Fredericksburg, VA 22406",
       "description" : "Accredited Child Advocacy Center providing coordinated response, forensic interviews, advocacy, and counseling for children who are victims of abuse and their non-offending caregivers.",
       "eligibility" : "Children and non-offending caregivers referred by law enforcement, CPS, or partner agencies within the service region.",
