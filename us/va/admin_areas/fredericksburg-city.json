@@ -468,27 +468,6 @@
       "website" : "https:\/\/www.germanna.edu"
     },
     {
-      "address" : "Multiple clinic locations, Fredericksburg, VA",
-      "description" : "Community-based primary care clinics providing affordable medical services, often serving uninsured or underinsured patients.",
-      "eligibility" : "Open to the community, with emphasis on uninsured and underinsured residents",
-      "hours" : "Varies by clinic location",
-      "id" : "us-va-mwhc-community-care-clinics-1",
-      "name" : "Mary Washington Healthcare Community Care Clinics",
-      "orgType" : "nonprofit",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-741-1000"
-        }
-      ],
-      "services" : [
-        "medical",
-        "mental_health",
-        "dental"
-      ],
-      "website" : "https:\/\/www.marywashingtonhealthcare.com\/our-services\/community-health\/"
-    },
-    {
       "address" : "1320 Central Park Blvd, Fredericksburg, VA 22401",
       "description" : "Local public health department providing clinical services, disease prevention, environmental health, and community health programs.",
       "eligibility" : "Residents of the Rappahannock Area Health District service region",
