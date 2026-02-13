@@ -1,26 +1,6 @@
 {
   "providers" : [
     {
-      "address" : "2130 Germanna Hwy, Locust Grove, VA 22508",
-      "description" : "Adult education, workforce training, and career readiness programs serving the Germanna Community College region.",
-      "eligibility" : "Adults seeking education, workforce skills, credentials, or career advancement within the Germanna service region",
-      "hours" : "Varies by program",
-      "id" : "us-va-germanna-adult-ed-workforce-1",
-      "name" : "Germanna Community College Adult Education & Workforce Programs",
-      "orgType" : "college",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-891-3000"
-        }
-      ],
-      "services" : [
-        "education",
-        "employment"
-      ],
-      "website" : "https:\/\/germanna.edu\/adult-education-workforce"
-    },
-    {
       "address" : "1835 Industry Ln, Culpeper, VA 22701",
       "description" : "Administers child care financial assistance through the Virginia Child Care Subsidy Program.",
       "eligibility" : "Culpeper County residents meeting state eligibility guidelines.",
