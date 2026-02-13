@@ -329,25 +329,6 @@
       "website" : "https:\/\/www.vdh.virginia.gov\/rappahannock\/"
     },
     {
-      "address" : "Fredericksburg, VA (meeting locations vary)",
-      "description" : "A nonprofit, peer-led fellowship providing a 12-step recovery program for individuals seeking freedom from drug addiction.",
-      "eligibility" : "Anyone with a desire to stop using drugs",
-      "hours" : "Meetings held daily at various times and locations",
-      "id" : "us-va-fredericksburg-na-area-1",
-      "name" : "Narcotics Anonymous – Fredericksburg Area",
-      "orgType" : "charity",
-      "phones" : [
-        {
-          "label" : "Helpline",
-          "number" : "1-800-777-1515"
-        }
-      ],
-      "services" : [
-        "mental_health"
-      ],
-      "website" : "https:\/\/www.fredericksburgareana.org"
-    },
-    {
       "address" : "2300 Fall Hill Ave, Fredericksburg, VA 22401",
       "description" : "Nonprofit regional healthcare system providing hospital, outpatient, and specialty medical services to Central Virginia.",
       "eligibility" : "Open to the general public; specific services may have medical or insurance requirements",
