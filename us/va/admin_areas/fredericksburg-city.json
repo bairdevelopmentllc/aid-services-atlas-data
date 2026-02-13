@@ -349,25 +349,6 @@
       "website" : "https:\/\/empowerhouseva.org"
     },
     {
-      "address" : "150 Riverside Pkwy, Fredericksburg, VA 22406",
-      "description" : "Provides free medical care, specialty referrals, medications, and care coordination for uninsured and underinsured adults in the Fredericksburg region.",
-      "eligibility" : "Uninsured or underinsured adults with limited income living in the Fredericksburg region",
-      "hours" : "By appointment; clinic hours vary by service",
-      "id" : "us-va-fredericksburg-gfmo-1",
-      "name" : "Greater Fredericksburg Medical Outreach",
-      "orgType" : "nonprofit",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-741-0088"
-        }
-      ],
-      "services" : [
-        "medical"
-      ],
-      "website" : "https:\/\/www.gfmo.org"
-    },
-    {
       "address" : "Multiple clinic locations, Fredericksburg, VA",
       "description" : "Community-based primary care clinics providing affordable medical services, often serving uninsured or underinsured patients.",
       "eligibility" : "Open to the community, with emphasis on uninsured and underinsured residents",
