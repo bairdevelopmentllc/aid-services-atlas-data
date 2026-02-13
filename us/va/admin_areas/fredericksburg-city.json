@@ -655,29 +655,6 @@
       "website" : "https:\/\/www.vdh.virginia.gov\/rappahannock\/wic\/"
     },
     {
-      "address" : "616 Caroline St, Fredericksburg, VA 22401",
-      "description" : "Public benefits, family services, and case management for residents of the City of Fredericksburg.",
-      "eligibility" : "Residents of the City of Fredericksburg",
-      "hours" : "Mon–Fri 8am–4:30pm",
-      "id" : "us-va-fredericksburg-dss-1",
-      "name" : "Fredericksburg Department of Social Services",
-      "orgType" : "city",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-372-1032"
-        }
-      ],
-      "services" : [
-        "childcare",
-        "financial",
-        "food",
-        "medical",
-        "utilities"
-      ],
-      "website" : "https:\/\/www.fredericksburgva.gov\/204\/Social-Services"
-    },
-    {
       "address" : "PO Box 8731, Fredericksburg, VA 22404",
       "description" : "Coordinates homeless services, housing assistance, and system planning for individuals and families experiencing homelessness in the Fredericksburg region.",
       "eligibility" : "Individuals and families experiencing homelessness or at risk of losing housing in the Fredericksburg region",
