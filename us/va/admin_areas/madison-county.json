@@ -1,23 +1,5 @@
 {
   "providers" : [
-    {
-      "address" : "1450 N Main St, Madison, VA 22727",
-      "description" : "Delivers meals to eligible homebound residents of Madison County.",
-      "eligibility" : "Homebound residents of Madison County, primarily seniors and adults with disabilities.",
-      "hours" : "Mon-Fri 8am-4pm",
-      "id" : "us-va-madison-mealsonwheels-1",
-      "name" : "Madison County Meals on Wheels",
-      "orgType" : "county",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-948-7531"
-        }
-      ],
-      "services" : [
-        "food"
-      ],
-      "website" : "https:\/\/www.madisonco.virginia.gov\/MealsOnWheels"
-    }
+
   ]
 }
