@@ -178,7 +178,7 @@
       "eligibility" : "King George County residents meeting eligibility criteria.",
       "hours" : "Mon-Fri 8am-4pm",
       "id" : "us-va-kinggeorge-dss-childcare-1",
-      "name" : "King George County Department of Social Services - Child Care Subsidy",
+      "name" : "King George County Department of Social Services",
       "orgType" : "county",
       "phones" : [
         {
@@ -190,7 +190,7 @@
         "childcare",
         "financial"
       ],
-      "website" : "https:\/\/www.king-george.virginia.gov\/160\/Social-Services"
+      "website" : "https:\/\/www.kinggeorgecountyva.gov\/222\/Social-Services"
     },
     {
       "address" : "2300 Fall Hill Ave, Fredericksburg, VA 22401",
