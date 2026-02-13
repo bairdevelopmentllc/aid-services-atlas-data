@@ -466,29 +466,6 @@
       "website" : "https:\/\/www.fredericksburgareana.org"
     },
     {
-      "address" : "1101 Jefferson Davis Hwy, Fredericksburg, VA 22401",
-      "description" : "Provides charitable assistance and social services including emergency aid, counseling, and immigration-related support to individuals and families in the Fredericksburg region.",
-      "eligibility" : "Open to individuals and families in need within the Fredericksburg region; some programs have income or residency requirements.",
-      "hours" : "Mon–Fri, 9am–5pm",
-      "id" : "us-va-fredericksburg-catholic-charities-1",
-      "name" : "Catholic Charities Diocese of Arlington – Fredericksburg Office",
-      "orgType" : "charity",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-371-1124"
-        }
-      ],
-      "services" : [
-        "food",
-        "financial",
-        "housing",
-        "legal",
-        "mental_health"
-      ],
-      "website" : "https:\/\/www.catholiccharitiesda.org\/fredericksburg"
-    },
-    {
       "address" : "2300 Fall Hill Ave, Fredericksburg, VA 22401",
       "description" : "Nonprofit regional healthcare system providing hospital, outpatient, and specialty medical services to Central Virginia.",
       "eligibility" : "Open to the general public; specific services may have medical or insurance requirements",
