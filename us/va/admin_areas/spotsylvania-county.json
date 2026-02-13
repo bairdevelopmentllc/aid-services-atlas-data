@@ -276,26 +276,6 @@
       "website" : "https:\/\/family-ymca.org"
     },
     {
-      "address" : "3001 Lafayette Blvd, Fredericksburg, VA 22401",
-      "description" : "Provides after-school and out-of-school time programs for youth, focused on academic success, character development, and healthy lifestyles.",
-      "eligibility" : "Children and teens, generally ages 6–18, in the Rappahannock Area",
-      "hours" : "Varies by club location and school calendar",
-      "id" : "us-va-rappahannock-bgca-1",
-      "name" : "Boys & Girls Clubs of the Rappahannock Area",
-      "orgType" : "nonprofit",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-371-7458"
-        }
-      ],
-      "services" : [
-        "education",
-        "childcare"
-      ],
-      "website" : "https:\/\/www.bgcrappahannock.org"
-    },
-    {
       "address" : "10714 Courthouse Rd, Fredericksburg, VA 22407",
       "description" : "Provides one-to-one youth mentoring programs that support positive youth development through professionally supported, long-term relationships.",
       "eligibility" : "Children and youth typically ages 6–18 in the Greater Fredericksburg area; volunteer mentors must meet screening requirements.",
