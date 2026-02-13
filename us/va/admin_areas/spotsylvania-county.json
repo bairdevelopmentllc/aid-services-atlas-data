@@ -15,14 +15,14 @@
         }
       ],
       "services" : [
-        "food",
-        "transportation",
-        "medical",
-        "housing",
         "financial",
-        "legal"
+        "food",
+        "housing",
+        "legal",
+        "medical",
+        "transportation"
       ],
-      "website" : "https:\/\/www.rappahannockareaaa.org"
+      "website" : "https:\/\/healthygenerations.org"
     },
     {
       "address" : "210 Ferdinand Day Dr, Fredericksburg, VA 22401",
