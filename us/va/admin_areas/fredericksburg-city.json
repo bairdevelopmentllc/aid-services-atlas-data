@@ -447,25 +447,25 @@
       "website" : "https:\/\/www.gfmo.org"
     },
     {
-      "address" : "132 Germanna Point Dr, Fredericksburg, VA 22408",
-      "description" : "Low-cost preventive dental care provided by dental hygiene students under the supervision of licensed dental professionals.",
-      "eligibility" : "Open to the public; suitable for individuals seeking affordable preventive dental services",
-      "hours" : "Varies by academic semester; appointments required",
-      "id" : "us-va-germanna-dental-hygiene-clinic-1",
-      "name" : "Germanna Community College Dental Hygiene Clinic",
-      "orgType" : "education",
+      "address" : "Multiple clinic locations, Fredericksburg, VA",
+      "description" : "Community-based primary care clinics providing affordable medical services, often serving uninsured or underinsured patients.",
+      "eligibility" : "Open to the community, with emphasis on uninsured and underinsured residents",
+      "hours" : "Varies by clinic location",
+      "id" : "us-va-mwhc-community-care-clinics-1",
+      "name" : "Mary Washington Healthcare Community Care Clinics",
+      "orgType" : "nonprofit",
       "phones" : [
         {
-          "label" : "Clinic",
-          "number" : "540-891-3000"
+          "label" : "Main",
+          "number" : "540-741-1000"
         }
       ],
       "services" : [
-        "dental",
         "medical",
-        "education"
+        "mental_health",
+        "dental"
       ],
-      "website" : "https:\/\/www.germanna.edu"
+      "website" : "https:\/\/www.marywashingtonhealthcare.com\/our-services\/community-health\/"
     },
     {
       "address" : "1320 Central Park Blvd, Fredericksburg, VA 22401",
