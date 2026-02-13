@@ -433,7 +433,7 @@
       "eligibility" : "Individuals and families experiencing financial hardship within the Fredericksburg-area service region",
       "hours" : "Varies by parish conference; call for details",
       "id" : "us-va-fredericksburg-stvincentdepaul-utility",
-      "name" : "St. Vincent de Paul Society (Fredericksburg)",
+      "name" : "Society of St. Vincent de Paul",
       "orgType" : "charity",
       "phones" : [
         {
@@ -442,11 +442,11 @@
         }
       ],
       "services" : [
-        "utilities",
         "financial",
-        "food"
+        "food",
+        "utilities"
       ],
-      "website" : "https:\/\/www.svdpfred.org\/"
+      "website" : "https:\/\/stvdpfredericksburg.com\/"
     },
     {
       "address" : "2300 Charles St, Fredericksburg, VA 22401",
