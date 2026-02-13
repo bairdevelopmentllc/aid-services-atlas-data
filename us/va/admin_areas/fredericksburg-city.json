@@ -370,25 +370,6 @@
       "website" : "https:\/\/www.vdh.virginia.gov\/rappahannock\/"
     },
     {
-      "address" : "Fredericksburg, VA (meeting locations vary)",
-      "description" : "A nonprofit, peer-led fellowship providing a 12-step recovery program for individuals seeking freedom from drug addiction.",
-      "eligibility" : "Anyone with a desire to stop using drugs",
-      "hours" : "Meetings held daily at various times and locations",
-      "id" : "us-va-fredericksburg-na-area-1",
-      "name" : "Narcotics Anonymous – Fredericksburg Area",
-      "orgType" : "charity",
-      "phones" : [
-        {
-          "label" : "Helpline",
-          "number" : "1-800-777-1515"
-        }
-      ],
-      "services" : [
-        "mental_health"
-      ],
-      "website" : "https:\/\/www.fredericksburgareana.org"
-    },
-    {
       "address" : "1101 Jefferson Davis Hwy, Fredericksburg, VA 22401",
       "description" : "Provides charitable assistance and social services including emergency aid, counseling, and immigration-related support to individuals and families in the Fredericksburg region.",
       "eligibility" : "Open to individuals and families in need within the Fredericksburg region; some programs have income or residency requirements.",
