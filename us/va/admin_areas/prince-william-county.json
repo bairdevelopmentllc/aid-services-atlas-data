@@ -1,39 +1,23 @@
 {
-  "providers": [
-	  {
-  "id": "us-va-princegeorge-mealsonwheels-1",
-  "name": "Prince George County Meals on Wheels",
-  "orgType": "county",
-  "address": "6602 Courts Dr, Prince George, VA 23875",
-  "description": "County-operated Meals on Wheels program delivering nutritious meals to eligible homebound residents.",
-  "eligibility": "Homebound residents of Prince George County, primarily seniors and adults with disabilities.",
-  "hours": "Mon-Fri 8am-4:30pm",
-  "phones": [
+  "providers" : [
     {
-      "label": "Main",
-      "number": "804-733-2650"
+      "address" : "6602 Courts Dr, Prince George, VA 23875",
+      "description" : "County-operated Meals on Wheels program delivering nutritious meals to eligible homebound residents.",
+      "eligibility" : "Homebound residents of Prince George County, primarily seniors and adults with disabilities.",
+      "hours" : "Mon-Fri 8am-4:30pm",
+      "id" : "us-va-princegeorge-mealsonwheels-1",
+      "name" : "Prince George County Meals on Wheels",
+      "orgType" : "county",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "804-733-2650"
+        }
+      ],
+      "services" : [
+        "food"
+      ],
+      "website" : "https:\/\/www.princegeorgecountyva.gov\/MealsOnWheels"
     }
-  ],
-  "services": [
-    "food"
-  ],
-  "website": "https://www.princegeorgecountyva.gov/MealsOnWheels"
-},
-{
-  "id": "us-va-princewilliam-dss-childcare-1",
-  "name": "Prince William County Department of Social Services - Child Care Subsidy",
-  "orgType": "county",
-  "address": "4000 Prince William Pkwy, Woodbridge, VA 22192",
-  "description": "Administers child care assistance for Prince William County, including the Quantico area.",
-  "eligibility": "Residents of Prince William County meeting Virginia Child Care Subsidy requirements.",
-  "hours": "Mon-Fri 8am-5pm",
-  "phones": [{ "label": "Main", "number": "703-792-7500" }],
-  "services": ["childcare", "financial"],
-  "website": "https://www.pwcva.gov/department/social-services"
-}
-
-
-
-
   ]
 }
