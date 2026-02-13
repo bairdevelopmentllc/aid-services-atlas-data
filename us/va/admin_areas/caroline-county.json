@@ -25,26 +25,6 @@
       "website" : "https:\/\/www.rappahannockareaaa.org"
     },
     {
-      "address" : "1320 Central Park Blvd, Fredericksburg, VA 22401",
-      "description" : "Provides adult education services including GED preparation, English language learning, adult basic education, and workforce readiness for the Rappahannock Area region.",
-      "eligibility" : "Adults aged 18 and older residing in the Rappahannock Area",
-      "hours" : "Varies by program and location",
-      "id" : "us-va-rappahannock-area-regional-adult-education-1",
-      "name" : "Rappahannock Area Regional Adult Education",
-      "orgType" : "regional",
-      "phones" : [
-        {
-          "label" : "Main",
-          "number" : "540-368-9888"
-        }
-      ],
-      "services" : [
-        "education",
-        "employment"
-      ],
-      "website" : "https:\/\/www.fcps.org\/domain\/137"
-    },
-    {
       "address" : "1928 Princess Anne St, Fredericksburg, VA 22401",
       "description" : "State veterans service office providing benefits assistance, claims support, and referrals for veterans and their families.",
       "eligibility" : "Veterans, service members, and eligible dependents residing in the Fredericksburg region",
