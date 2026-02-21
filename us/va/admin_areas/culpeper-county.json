@@ -44,8 +44,23 @@
       "name" : ""
     },
     {
-      "id" : "971f5391-a5c9-4de2-bd83-8fac81b13be1",
-      "name" : ""
+      "address" : "120 N. Commerce Street\nCulpeper, VA 22701",
+      "description" : "An outreach ministry of St. Stephen’s Episcopal Church, it began in 1984 and operates as a full community effort, through the dedicated work of over 80 volunteers from our area. Food and monetary donations are received from local businesses, organizations, churches, and generous individuals. These donations may provide over 3,500 meals weekly for families and individuals, in the town and county of Culpeper",
+      "eligibility" : "The Culpeper Food Closet provides food and personal care items to Culpeper families, individuals, and seniors in need of assistance.",
+      "hours" : "Monday-Wendesday | 9 AM – 12 PM\nThursdays | 4 PM – 6 PM\nFriday | 9 AM – 12 PM",
+      "id" : "culpeper-food-closet",
+      "name" : "Culpeper Food Closet",
+      "orgType" : "church",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-825-1177"
+        }
+      ],
+      "services" : [
+        "food"
+      ],
+      "website" : "https:\/\/www.ststephensculpeper.net\/culpeper-food-closet\/"
     }
   ]
 }
