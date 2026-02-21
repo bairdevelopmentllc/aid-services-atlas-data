@@ -43,6 +43,30 @@
         "financial"
       ],
       "website" : "https:\/\/www.centralvahousing.org\/"
+    },
+    {
+      "address" : "219 East Davis Street \nSuite 300 \nCulpeper, VA 22701",
+      "description" : "Sam’s Place is a one-stop community outreach hub where individuals and families can access information, assistance, and referrals to a network of partner organizations. Services include help with basic needs such as health resources, transportation support, food access, home repair referrals, and applications for housing financial aid. The center also provides access to vision and hearing aids, clothing and furniture vouchers, and connects people with additional community partners based on individual needs and eligibility criteria.",
+      "eligibility" : "Referrals are made based upon personal needs, available funds, and program criteria.",
+      "hours" : "Open 8 a.m. until 12 noon,\nMonday–Friday.",
+      "id" : "sams-place",
+      "name" : "Sam’s Place",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "(540) 727-1055"
+        }
+      ],
+      "services" : [
+        "childcare",
+        "employment",
+        "food",
+        "housing",
+        "medical",
+        "transportation"
+      ],
+      "website" : "https:\/\/www.ccrc-jobs.com\/sams-place\/"
     }
   ]
 }
