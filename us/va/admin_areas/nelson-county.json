@@ -1,30 +1,46 @@
 {
-  "providers": [
-	  {
-  "id": "us-va-centralva-partnersinaging-1",
-  "name": "Partners in Aging",
-  "orgType": "nonprofit",
-  "address": "700 Garden St, Charlottesville, VA 22902",
-  "description": "Area Agency on Aging serving Central Virginia, providing care coordination, nutrition, transportation, and support services to older adults and caregivers.",
-  "eligibility": "Older adults (generally age 60+) and caregivers residing in the service area",
-  "hours": "Mon-Fri 8:30am-5:00pm",
-  "phones": [
+  "providers" : [
     {
-      "label": "Main",
-      "number": "434-243-5600"
+      "address" : "700 Garden St, Charlottesville, VA 22902",
+      "description" : "Area Agency on Aging serving Central Virginia, providing care coordination, nutrition, transportation, and support services to older adults and caregivers.",
+      "eligibility" : "Older adults (generally age 60+) and caregivers residing in the service area",
+      "hours" : "Mon-Fri 8:30am-5:00pm",
+      "id" : "us-va-centralva-partnersinaging-1",
+      "name" : "Partners in Aging",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "434-243-5600"
+        }
+      ],
+      "services" : [
+        "food",
+        "transportation",
+        "medical",
+        "financial",
+        "education"
+      ],
+      "website" : "https:\/\/www.partnersinaging.org"
+    },
+    {
+      "address" : "Headquarters 96 Laurel Hill Road, P.O. Box 937, Verona, VA 24482",
+      "description" : "Blue Ridge Area Food Bank is a nonprofit organization that provides food assistance through a network of partner agencies, including food pantries, soup kitchens, shelters, and community programs. The organization distributes millions of pounds of food annually and operates mobile food pantries and direct distribution programs to serve individuals and families experiencing hunger across central and western Virginia.",
+      "eligibility" : "Individuals and families experiencing food insecurity within the service area. Specific eligibility requirements may vary by partner pantry or distribution site.",
+      "hours" : "Operating hours for all warehouses are 7:30 a.m. to 4 p.m. Monday through Friday.",
+      "id" : "blue-ridge-area-food-bank",
+      "name" : "Blue Ridge Area Food Bank",
+      "orgType" : "charity",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "540-248-3663"
+        }
+      ],
+      "services" : [
+        "food"
+      ],
+      "website" : "https:\/\/www.brafb.org"
     }
-  ],
-  "services": [
-    "food",
-    "transportation",
-    "medical",
-    "financial",
-    "education"
-  ],
-  "website": "https://www.partnersinaging.org"
-}
-
-
-
   ]
 }
