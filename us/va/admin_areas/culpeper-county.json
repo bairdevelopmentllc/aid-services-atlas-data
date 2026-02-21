@@ -22,7 +22,10 @@
     },
     {
       "id" : "blue-ridge-area-food-bank",
-      "name" : "Blue Ridge Area Food Bank"
+      "name" : "Blue Ridge Area Food Bank",
+      "services" : [
+        "gas"
+      ]
     }
   ]
 }
