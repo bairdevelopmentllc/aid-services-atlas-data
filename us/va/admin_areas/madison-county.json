@@ -42,6 +42,25 @@
         "transportation"
       ],
       "website" : "https:\/\/www.ccrc-jobs.com\/sams-place\/"
+    },
+    {
+      "description" : "The mission of Foothills Housing Network is to make homelessness rare, brief, and nonrecurring. We are a partnership of organizations working to achieve this mission in Virginia's Rappahannock-Rapidan region, serving the counties of Culpeper, Fauquier, Madison, Orange, and Rappahannock Counties",
+      "eligibility" : "Individuals and families who are homeless or at risk of homelessness within the service region. Eligibility varies by program and funding source, typically based on income and housing status.",
+      "hours" : "Monday-Friday 8:30 AM - 4:30 PM",
+      "id" : "foothills-housing-network",
+      "name" : "Foothills Housing Network",
+      "orgType" : "nonprofit",
+      "phones" : [
+        {
+          "label" : "Main",
+          "number" : "(540) 724-6630"
+        }
+      ],
+      "services" : [
+        "financial",
+        "housing"
+      ],
+      "website" : "https:\/\/www.foothillshousing.org"
     }
   ]
 }
