@@ -10,38 +10,38 @@ def generate_html():
     }
     extracted_urls = set(base_urls)
     
-    # Change this to 'US' if your folder is capitalized!
     target_folder = 'us' 
-    
-    print(f"--- Starting Scan ---")
-    if not os.path.exists(target_folder):
-        print(f"CRITICAL ERROR: Could not find the folder named '{target_folder}' in the repository root.")
-    
     files_processed = 0
     urls_found = 0
+
+    print("--- Starting JSON Scan ---")
 
     for root, dirs, files in os.walk(target_folder):
         for file in files:
             if file.lower().endswith('.json'):
                 filepath = os.path.join(root, file)
+                
+                # Skip 0-byte placeholder files
+                if os.path.getsize(filepath) == 0:
+                    continue
+                    
                 files_processed += 1
                 try:
-                    with open(filepath, 'r') as f:
+                    with open(filepath, 'r', encoding='utf-8-sig') as f:
                         data = json.load(f)
                         
-                        # Handle both array formats and object formats
+                        # Look for the 'providers' array based on your schema
                         if isinstance(data, dict):
-                            # If JSON is an object, look for a 'services' array
-                            items = data.get('services', [])
+                            items = data.get('providers', [])
                         elif isinstance(data, list):
-                            # If JSON is just a flat array
                             items = data
                         else:
                             items = []
                             
                         for item in items:
-                            if isinstance(item, dict) and 'url' in item and item['url']:
-                                extracted_urls.add(item['url'])
+                            # Look for the 'website' key
+                            if isinstance(item, dict) and 'website' in item and item['website']:
+                                extracted_urls.add(item['website'])
                                 urls_found += 1
                 except Exception as e:
                     print(f"Error reading {filepath}: {e}")
