@@ -9,31 +9,51 @@ def generate_html():
         'https://www.virginia.gov'
     }
     extracted_urls = set(base_urls)
+    
+    # Change this to 'US' if your folder is capitalized!
+    target_folder = 'us' 
+    
+    print(f"--- Starting Scan ---")
+    if not os.path.exists(target_folder):
+        print(f"CRITICAL ERROR: Could not find the folder named '{target_folder}' in the repository root.")
+    
+    files_processed = 0
+    urls_found = 0
 
-    # Walk through the 'us' directory to find JSON files
-    for root, dirs, files in os.walk('us'):
+    for root, dirs, files in os.walk(target_folder):
         for file in files:
-            if file.endswith('.json'):
+            if file.lower().endswith('.json'):
                 filepath = os.path.join(root, file)
+                files_processed += 1
                 try:
                     with open(filepath, 'r') as f:
                         data = json.load(f)
-                        # Assuming your JSON is an array of service objects
-                        for item in data:
-                            if 'url' in item and item['url']:
+                        
+                        # Handle both array formats and object formats
+                        if isinstance(data, dict):
+                            # If JSON is an object, look for a 'services' array
+                            items = data.get('services', [])
+                        elif isinstance(data, list):
+                            # If JSON is just a flat array
+                            items = data
+                        else:
+                            items = []
+                            
+                        for item in items:
+                            if isinstance(item, dict) and 'url' in item and item['url']:
                                 extracted_urls.add(item['url'])
+                                urls_found += 1
                 except Exception as e:
                     print(f"Error reading {filepath}: {e}")
 
-    # Sort URLs alphabetically
+    print(f"Scan Complete: Processed {files_processed} JSON files and found {urls_found} local URLs.")
+
     sorted_urls = sorted(list(extracted_urls))
 
-    # Generate the HTML list items
     list_items = ""
     for url in sorted_urls:
         list_items += f'<li><a href="{url}" target="_blank" rel="noopener noreferrer">{url}</a></li>\n'
 
-    # The HTML template
     html_content = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,7 +80,6 @@ def generate_html():
 </body>
 </html>"""
 
-    # Write the output to sources.html
     with open('sources.html', 'w') as f:
         f.write(html_content)
 
