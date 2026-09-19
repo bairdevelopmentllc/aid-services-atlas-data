@@ -1,5 +1,43 @@
 {
   "providers" : [
-
+    {
+      "address" : "17470 Richmond Highway Dumfries VA 22026",
+      "hours" : "Mo-Fr 08:00-17:00",
+      "id" : "mainspring-recovery",
+      "name" : "Mainspring Recovery",
+      "notes" : "Sourced from OpenStreetMap map data (no website to verify against) -- please confirm details before publishing.",
+      "orgType" : "Drug and Alcohol Rehab",
+      "phones" : [
+        {
+          "number" : "+1 571-621-7007"
+        }
+      ],
+      "services" : [
+        "mental_health"
+      ],
+      "website" : "https:\/\/www.mainspringrecovery.com"
+    },
+    {
+      "address" : "17739 Main Street Dumfries VA 22026",
+      "id" : "greater-prince-william-community-health-center",
+      "name" : "Greater Prince William Community Health Center",
+      "notes" : "Sourced from OpenStreetMap map data (no website to verify against) -- please confirm details before publishing.",
+      "orgType" : "Community Health",
+      "services" : [
+        "medical"
+      ],
+      "website" : "https:\/\/nhchc.org\/grantee-directory\/greater-prince-william-community-health-center-2\/"
+    },
+    {
+      "address" : "13900 Church Hill Drive Woodbridge VA 22191",
+      "id" : "prince-william-area-free-clinic",
+      "name" : "Prince William Area Free Clinic",
+      "notes" : "Sourced from OpenStreetMap map data (no website to verify against) -- please confirm details before publishing.",
+      "orgType" : "Health Care",
+      "services" : [
+        "medical"
+      ],
+      "website" : "http:\/\/www.pwafcw.comcastbiz.net\/"
+    }
   ]
 }
