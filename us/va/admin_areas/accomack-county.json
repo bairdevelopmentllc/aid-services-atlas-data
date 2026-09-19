@@ -21,6 +21,22 @@
         "medical"
       ],
       "website" : "https:\/\/www.accomack.gov\/297\/Social-Services"
+    },
+    {
+      "address" : "24530 Coastal Boulevard Tasley VA 23441",
+      "id" : "foodbank-of-southeastern-virginia-and-the-eastern-shore",
+      "name" : "Foodbank of Southeastern Virginia and The Eastern Shore",
+      "notes" : "Sourced from OpenStreetMap map data (no website to verify against) -- please confirm details before publishing.",
+      "orgType" : "Food Bank",
+      "phones" : [
+        {
+          "number" : "+1-757-787-2557"
+        }
+      ],
+      "services" : [
+        "food"
+      ],
+      "website" : "https:\/\/foodbankonline.org\/"
     }
   ]
 }
